@@ -1,0 +1,22 @@
+# 🚀 AI-ML Learning Journey
+
+Welcome to my AI/ML + Python self-learning journey!  
+Each folder represents one day/weekend of my consistent practice and project-based learning.
+
+## 📅 Progress Tracker
+
+| Day | Project Name | Focus Area | Status |
+|-----|---------------|-------------|--------|
+| 1 | Health Tracker | Python OOP + Basic Logic | ✅Completed |
+| 2 | Coming Soon... |  | ⏳ |
+
+## 🧠 Skills Covered
+- Python Fundamentals
+- OOP Concepts
+- Data Handling & Logic Building
+- Health & Productivity Tools
+- AI/ML (coming in later weeks)
+
+---
+
+**Goal:** Build 1 project every 1–2 days to improve logic, problem-solving, and real-world thinking in Python.
