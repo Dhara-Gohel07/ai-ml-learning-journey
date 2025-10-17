@@ -8,7 +8,7 @@ Each folder represents one day/weekend of my consistent practice and project-bas
 | Day | Project Name | Focus Area | Status |
 |-----|---------------|-------------|--------|
 | 1 | Health Tracker | Python OOP + Basic Logic | ✅Completed |
-| 2 | Coming Soon... |  | ⏳ |
+| 2 | Study Tracker | File Handling (JSON), OOP, CLI Interaction | ✅Completed |
 
 ## 🧠 Skills Covered
 - Python Fundamentals
