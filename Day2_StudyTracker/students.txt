@@ -1,0 +1,12 @@
+[
+  {
+    "username": "stud",
+    "name": "student",
+    "age": "21",
+    "class": "BCA year 1",
+    "password_hash": "2d196c2acd92812ef99acd3dcdbb746b9a434221621e6926159493571dd8f71e",
+    "subjects": [
+      "c++"
+    ]
+  }
+]

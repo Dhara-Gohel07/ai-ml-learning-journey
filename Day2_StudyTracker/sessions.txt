@@ -1,0 +1,14 @@
+[
+  {
+    "id": "s1",
+    "username": "stud",
+    "subject": "c++",
+    "start": "2025-10-17 08:08",
+    "end": "2025-10-17 09:08",
+    "duration_min": 60,
+    "break_min": 15,
+    "effective_min": 45,
+    "focus_rating": 4,
+    "notes": ""
+  }
+]
