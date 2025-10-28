@@ -1,0 +1,31 @@
+EmployeeID,Name,Department,Role,Experience(Years),MonthlySalary,ProjectsCompleted,PerformanceScore,Attendance(%),Bonus
+E001,Aarav Shah,IT,Software Engineer,3,55000,8,88,96,3000
+E002,Diya Patel,HR,HR Manager,5,65000,5,90,98,5000
+E003,Rohan Mehta,Finance,Accountant,4,50000,7,85,92,2500
+E004,Khushi Sharma,IT,Data Analyst,2,48000,6,75,88,2000
+E005,Manav Joshi,Sales,Sales Executive,3,52000,10,82,94,3500
+E006,Isha Desai,Marketing,Marketing Specialist,4,60000,9,89,95,4000
+E007,Aryan Patel,Finance,Financial Analyst,6,70000,12,91,97,6000
+E008,Neha Rao,HR,Recruiter,2,45000,6,78,89,2200
+E009,Krish Shah,IT,Machine Learning Engineer,5,80000,14,95,99,8000
+E010,Simran Kaur,Sales,Sales Manager,7,85000,13,94,98,7000
+E011,Aditya Jain,IT,Backend Developer,4,62000,10,86,95,4200
+E012,Riya Gupta,Marketing,Brand Manager,5,70000,9,92,97,5500
+E013,Vedant Patel,Finance,Investment Advisor,8,95000,15,96,99,8500
+E014,Ananya Sharma,Sales,Sales Executive,2,48000,7,80,90,2800
+E015,Kunal Singh,IT,DevOps Engineer,6,72000,11,89,97,5200
+E016,Tanya Verma,HR,HR Executive,1,40000,4,72,85,1800
+E017,Harsh Gohel,Finance,Auditor,9,98000,16,97,99,9000
+E018,Meera Joshi,IT,Frontend Developer,3,56000,8,84,93,3000
+E019,Raj Patel,Marketing,SEO Specialist,2,47000,5,79,91,2100
+E020,Prisha Mehta,Sales,Sales Associate,1,35000,3,70,87,1500
+E021,Virat Kumar,Finance,Tax Consultant,7,87000,12,92,98,7200
+E022,Sara Desai,IT,AI Engineer,5,82000,13,94,99,8000
+E023,Devansh Joshi,HR,HR Manager,8,93000,14,95,99,8200
+E024,Kiara Shah,Sales,Sales Executive,3,51000,9,81,92,3000
+E025,Arjun Patel,Marketing,Social Media Manager,4,62000,8,88,94,4200
+E026,Pooja Jain,Finance,Accountant,2,47000,5,76,88,2000
+E027,Krisha Mehta,IT,Data Engineer,4,68000,10,90,96,5000
+E028,Aniket Sharma,IT,Software Engineer,3,55000,9,85,94,3200
+E029,Sanya Patel,HR,Recruiter,3,48000,7,83,90,2500
+E030,Aaryan Desai,Marketing,Content Writer,1,38000,4,74,87,1800
