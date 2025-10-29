@@ -1,0 +1,201 @@
+Date,Region,Product,Category,Units_Sold,Unit_Price,Revenue,Cost,Profit,Sales_Person
+2/7/2024,Africa,Fridge,Home,253,984,248952,158741.48,90210.52,John Doe
+7/20/2024,Asia,Fridge,Home,351,661,232011,183952.9,48058.1,Olivia Brown
+12/5/2024,Canada,Fridge,Home,456,233,106248,89775.98,16472.02,Maria Garcia
+9/4/2024,South America,TV,Electronics,166,797,132302,116407.16,15894.84,Ahmed Ali
+5/4/2024,South America,Tablet,Electronics,99,828,81972,72878.49,9093.51,Priya Sharma
+8/1/2024,Australia,TV,Electronics,381,787,299847,249698.72,50148.28,Sofia Rossi
+4/24/2024,Australia,AC,Home,429,786,337194,297595.22,39598.78,Chen Wei
+12/29/2024,Asia,Chair,Furniture,236,695,164020,143605.62,20414.38,Ahmed Ali
+3/9/2024,South America,Laptop,Electronics,127,442,56134,48532.99,7601.01,John Doe
+6/23/2024,Middle East,Tablet,Electronics,452,666,301032,242433.96,58598.04,Maria Garcia
+8/12/2024,Asia,AC,Home,314,207,64998,39440.02,25557.98,Priya Sharma
+7/31/2024,Canada,Sofa,Furniture,71,593,42103,35366.67,6736.33,Sofia Rossi
+9/17/2024,Canada,Sofa,Furniture,228,666,151848,128502.42,23345.58,Ahmed Ali
+7/16/2024,USA,Fridge,Home,301,900,270900,193314.71,77585.29,Chen Wei
+7/15/2024,Asia,AC,Home,178,274,48772,34229.53,14542.47,Maria Garcia
+10/14/2024,Africa,TV,Electronics,321,363,116523,74625.21,41897.79,Ahmed Ali
+3/12/2024,Asia,Mobile,Electronics,247,453,111891,86022.1,25868.9,Sofia Rossi
+9/23/2024,Africa,Laptop,Electronics,394,856,337264,242154.27,95109.73,Priya Sharma
+1/8/2024,Australia,TV,Electronics,75,482,36150,23230.75,12919.25,Liam Singh
+10/27/2024,Africa,TV,Electronics,105,571,59955,49202.64,10752.36,John Doe
+9/28/2024,Middle East,TV,Electronics,470,806,378820,311733.52,67086.48,Chen Wei
+3/31/2024,Canada,TV,Electronics,210,340,71400,59691.46,11708.54,John Doe
+6/3/2024,South America,Chair,Furniture,248,587,145576,105646.6,39929.4,Ahmed Ali
+9/27/2024,Middle East,Sofa,Furniture,211,274,57814,50865.58,6948.42,Priya Sharma
+1/14/2024,South America,Chair,Furniture,444,133,59052,40966.15,18085.85,Olivia Brown
+12/19/2024,Middle East,Laptop,Electronics,175,792,138600,123346.04,15253.96,Chen Wei
+7/14/2024,South America,Washing Machine,Home,237,486,115182,84304.98,30877.02,Sofia Rossi
+11/10/2024,Canada,Chair,Furniture,500,474,237000,196764.1,40235.9,Liam Singh
+3/29/2024,Middle East,Mobile,Electronics,260,799,207740,145208.99,62531.01,Sofia Rossi
+6/29/2024,South America,Fridge,Home,485,238,115430,71909.66,43520.34,John Doe
+4/29/2024,South America,Tablet,Electronics,472,982,463504,314885.06,148618.94,Olivia Brown
+1/24/2024,Asia,Sofa,Furniture,68,432,29376,26384,2992,Liam Singh
+3/4/2024,Australia,Laptop,Electronics,117,554,64818,56865.47,7952.53,Priya Sharma
+4/13/2024,Asia,Tablet,Electronics,188,213,40044,32789.48,7254.52,Priya Sharma
+7/21/2024,USA,TV,Electronics,398,106,42188,34921.88,7266.12,Sofia Rossi
+2/10/2024,Africa,AC,Home,298,971,289358,258678.66,30679.34,Maria Garcia
+2/25/2024,Asia,Tablet,Electronics,126,894,112644,77696.85,34947.15,Olivia Brown
+2/6/2024,Africa,AC,Home,125,235,29375,18806.42,10568.58,Olivia Brown
+2/17/2024,Europe,Microwave,Home,333,957,318681,239108.12,79572.88,Ahmed Ali
+1/16/2024,South America,TV,Electronics,227,733,166391,100206.67,66184.33,Liam Singh
+1/6/2024,Australia,Sofa,Furniture,119,897,106743,76251.64,30491.36,Maria Garcia
+8/3/2024,Australia,Tablet,Electronics,474,256,121344,99765.29,21578.71,Ahmed Ali
+3/24/2024,Canada,Sofa,Furniture,100,431,43100,33200.22,9899.78,Chen Wei
+8/31/2024,Middle East,Tablet,Electronics,202,281,56762,49753.79,7008.21,Maria Garcia
+12/16/2024,Europe,Laptop,Electronics,153,626,95778,59725.61,36052.39,John Doe
+12/24/2024,Canada,Tablet,Electronics,411,692,284412,243441.19,40970.81,Chen Wei
+3/6/2024,Africa,Chair,Furniture,290,752,218080,163551.23,54528.77,Priya Sharma
+6/24/2024,Middle East,Washing Machine,Home,70,738,51660,39932.33,11727.67,Liam Singh
+8/18/2024,Canada,TV,Electronics,274,807,221118,136899.06,84218.94,Chen Wei
+10/16/2024,Middle East,AC,Home,199,590,117410,81320.54,36089.46,John Doe
+10/19/2024,Africa,Microwave,Home,431,993,427983,325215.12,102767.88,Liam Singh
+5/2/2024,Canada,Sofa,Furniture,314,627,196878,145667.77,51210.23,Sofia Rossi
+8/13/2024,Asia,TV,Electronics,73,230,16790,14451.06,2338.94,Liam Singh
+10/30/2024,Europe,Microwave,Home,339,910,308490,257088.28,51401.72,John Doe
+7/10/2024,Canada,Microwave,Home,328,704,230912,144373.46,86538.54,Priya Sharma
+7/19/2024,Canada,Mobile,Electronics,246,313,76998,67983.43,9014.57,Maria Garcia
+12/9/2024,USA,TV,Electronics,178,467,83126,53637.14,29488.86,Liam Singh
+4/5/2024,Canada,AC,Home,473,904,427592,311313.8,116278.2,Liam Singh
+9/8/2024,Middle East,AC,Home,463,465,215295,163910.27,51384.73,Chen Wei
+11/6/2024,USA,Fridge,Home,97,644,62468,40888.51,21579.49,Ahmed Ali
+1/11/2024,Asia,TV,Electronics,487,307,149509,91019.86,58489.14,Ahmed Ali
+5/15/2024,Canada,Chair,Furniture,499,882,440118,284124.13,155993.87,Chen Wei
+4/5/2024,Africa,Sofa,Furniture,114,571,65094,53263.01,11830.99,Maria Garcia
+4/27/2024,Europe,Fridge,Home,239,596,142444,125192.1,17251.9,Chen Wei
+11/30/2024,Canada,AC,Home,436,876,381936,332282.92,49653.08,Liam Singh
+12/15/2024,Europe,AC,Home,232,150,34800,30032.93,4767.07,Liam Singh
+2/13/2024,South America,TV,Electronics,58,462,26796,16462.21,10333.79,Chen Wei
+2/19/2024,Middle East,Washing Machine,Home,397,407,161579,104756.14,56822.86,Ahmed Ali
+9/14/2024,South America,Microwave,Home,215,131,28165,18843.86,9321.14,Sofia Rossi
+9/14/2024,Europe,Tablet,Electronics,236,173,40828,29099.67,11728.33,Maria Garcia
+4/2/2024,South America,AC,Home,146,345,50370,44135.04,6234.96,Priya Sharma
+8/16/2024,South America,Mobile,Electronics,226,628,141928,92790.34,49137.66,Maria Garcia
+12/13/2024,Europe,Washing Machine,Home,376,934,351184,268944.56,82239.44,Priya Sharma
+2/20/2024,Australia,Sofa,Furniture,81,750,60750,51215.8,9534.2,Priya Sharma
+10/24/2024,Canada,AC,Home,330,273,90090,64500.47,25589.53,Chen Wei
+7/14/2024,Asia,Sofa,Furniture,73,989,72197,60164.97,12032.03,Maria Garcia
+8/15/2024,Australia,Tablet,Electronics,383,448,171584,128403.93,43180.07,Maria Garcia
+2/12/2024,South America,AC,Home,449,487,218663,190998.25,27664.75,Chen Wei
+4/24/2024,South America,Chair,Furniture,270,285,76950,63304.73,13645.27,Maria Garcia
+12/22/2024,Africa,Tablet,Electronics,421,154,64834,53458.6,11375.4,Chen Wei
+8/3/2024,South America,Washing Machine,Home,294,480,141120,120892.39,20227.61,Chen Wei
+8/12/2024,Canada,Microwave,Home,371,848,314608,234280.53,80327.47,Sofia Rossi
+2/9/2024,Asia,AC,Home,324,183,59292,51262.32,8029.68,Sofia Rossi
+2/24/2024,Africa,TV,Electronics,492,593,291756,239178.79,52577.21,Chen Wei
+11/13/2024,Middle East,Washing Machine,Home,145,658,95410,66584.19,28825.81,Liam Singh
+5/30/2024,Australia,Mobile,Electronics,189,232,43848,28710.29,15137.71,Chen Wei
+6/9/2024,USA,Fridge,Home,114,340,38760,31723.89,7036.11,John Doe
+4/15/2024,Australia,TV,Electronics,381,537,204597,178297.8,26299.2,Sofia Rossi
+9/9/2024,Europe,Fridge,Home,208,458,95264,66216.35,29047.65,Ahmed Ali
+11/18/2024,Australia,Sofa,Furniture,382,234,89388,58465.28,30922.72,Priya Sharma
+8/4/2024,South America,Tablet,Electronics,181,553,100093,66847.68,33245.32,Maria Garcia
+12/24/2024,Australia,Mobile,Electronics,73,140,10220,8328.73,1891.27,Olivia Brown
+2/13/2024,USA,Tablet,Electronics,70,941,65870,43202.1,22667.9,Maria Garcia
+12/31/2024,Middle East,Washing Machine,Home,173,458,79234,68643.83,10590.17,Chen Wei
+2/18/2024,USA,Laptop,Electronics,85,254,21590,19202.59,2387.41,Chen Wei
+11/1/2024,Africa,Laptop,Electronics,105,832,87360,66588.08,20771.92,John Doe
+11/23/2024,Australia,Tablet,Electronics,436,210,91560,74375.26,17184.74,Priya Sharma
+5/30/2024,Africa,Microwave,Home,458,491,224878,154866.44,70011.56,Sofia Rossi
+2/19/2024,South America,Laptop,Electronics,205,950,194750,117950.21,76799.79,Chen Wei
+9/4/2024,Canada,Laptop,Electronics,154,483,74382,47815.25,26566.75,Olivia Brown
+2/12/2024,USA,AC,Home,60,936,56160,44141.42,12018.58,Olivia Brown
+7/25/2024,Africa,Mobile,Electronics,427,133,56791,37614.73,19176.27,Ahmed Ali
+5/16/2024,USA,Laptop,Electronics,195,533,103935,79682.99,24252.01,Chen Wei
+12/21/2024,Africa,Mobile,Electronics,338,450,152100,118942.05,33157.95,Priya Sharma
+12/13/2024,Middle East,Microwave,Home,376,713,268088,238049.68,30038.32,Chen Wei
+5/6/2024,Europe,Mobile,Electronics,181,795,143895,103487.77,40407.23,Chen Wei
+3/31/2024,Australia,Tablet,Electronics,377,676,254852,176747.72,78104.28,Priya Sharma
+4/27/2024,Canada,Microwave,Home,207,350,72450,49375.43,23074.57,Chen Wei
+5/8/2024,Middle East,TV,Electronics,128,333,42624,36363.8,6260.2,Sofia Rossi
+5/12/2024,South America,Fridge,Home,333,568,189144,164648.15,24495.85,Priya Sharma
+9/1/2024,Canada,Mobile,Electronics,467,462,215754,182058.41,33695.59,Priya Sharma
+5/16/2024,Europe,Tablet,Electronics,218,811,176798,147299.1,29498.9,Ahmed Ali
+11/10/2024,Australia,Microwave,Home,109,423,46107,40493.69,5613.31,Priya Sharma
+11/18/2024,South America,Laptop,Electronics,179,617,110443,83709.8,26733.2,John Doe
+12/20/2024,Asia,Microwave,Home,466,588,274008,169441.88,104566.12,Priya Sharma
+4/28/2024,USA,Microwave,Home,424,122,51728,45038.49,6689.51,John Doe
+8/21/2024,South America,Chair,Furniture,210,238,49980,31626.23,18353.77,Priya Sharma
+6/14/2024,Middle East,Microwave,Home,478,824,393872,337238.82,56633.18,Liam Singh
+6/4/2024,Australia,Mobile,Electronics,128,679,86912,69823.39,17088.61,Maria Garcia
+12/10/2024,Australia,AC,Home,455,182,82810,60587.46,22222.54,Maria Garcia
+11/25/2024,Africa,Microwave,Home,203,464,94192,73167.16,21024.84,Liam Singh
+11/30/2024,Australia,Microwave,Home,286,660,188760,163652.56,25107.44,Maria Garcia
+7/5/2024,Canada,Fridge,Home,493,817,402781,362473.37,40307.63,Maria Garcia
+5/28/2024,Australia,Sofa,Furniture,239,978,233742,180844.67,52897.33,Maria Garcia
+5/22/2024,South America,Tablet,Electronics,456,987,450072,322726.98,127345.02,Olivia Brown
+3/28/2024,Middle East,Sofa,Furniture,71,941,66811,57589.08,9221.92,Maria Garcia
+7/11/2024,Canada,Sofa,Furniture,55,376,20680,15502.64,5177.36,Priya Sharma
+4/5/2024,USA,Washing Machine,Home,421,957,402897,338818.38,64078.62,Liam Singh
+12/7/2024,Asia,Microwave,Home,465,536,249240,153187.97,96052.03,Chen Wei
+11/6/2024,Europe,Microwave,Home,171,338,57798,38005.46,19792.54,Chen Wei
+12/12/2024,Australia,Laptop,Electronics,387,849,328563,267432.22,61130.78,John Doe
+12/5/2024,Australia,Mobile,Electronics,121,123,14883,13286.24,1596.76,Maria Garcia
+2/10/2024,Middle East,Chair,Furniture,138,462,63756,44709.17,19046.83,Olivia Brown
+10/23/2024,Australia,Chair,Furniture,226,125,28250,21815.45,6434.55,Chen Wei
+1/22/2024,Asia,AC,Home,269,982,264158,229194.62,34963.38,Sofia Rossi
+1/15/2024,South America,Sofa,Furniture,321,936,300456,260052.88,40403.12,Liam Singh
+8/4/2024,USA,Chair,Furniture,290,835,242150,162834.84,79315.16,Olivia Brown
+4/23/2024,Europe,TV,Electronics,384,241,92544,60964.32,31579.68,Liam Singh
+12/4/2024,Canada,Sofa,Furniture,185,514,95090,65322.51,29767.49,Olivia Brown
+10/26/2024,Australia,Sofa,Furniture,467,527,246109,184554.49,61554.51,Ahmed Ali
+10/28/2024,Africa,AC,Home,126,738,92988,69489.41,23498.59,John Doe
+12/7/2024,South America,Chair,Furniture,323,857,276811,235064.79,41746.21,Ahmed Ali
+3/23/2024,Asia,TV,Electronics,240,677,162480,119806.93,42673.07,Priya Sharma
+5/21/2024,Asia,Fridge,Home,192,935,179520,158378.22,21141.78,John Doe
+1/26/2024,Africa,Washing Machine,Home,120,685,82200,59260.18,22939.82,Olivia Brown
+5/6/2024,Africa,AC,Home,356,447,159132,134164.24,24967.76,Liam Singh
+8/16/2024,South America,Chair,Furniture,270,492,132840,118125.63,14714.37,Chen Wei
+4/30/2024,Middle East,Washing Machine,Home,237,881,208797,143998.78,64798.22,Maria Garcia
+3/7/2024,Africa,Chair,Furniture,239,843,201477,171949.71,29527.29,Liam Singh
+9/27/2024,Canada,Chair,Furniture,405,671,271755,191466.49,80288.51,Liam Singh
+1/16/2024,Africa,Microwave,Home,225,600,135000,101024.27,33975.73,John Doe
+5/21/2024,Africa,TV,Electronics,462,774,357588,247845.63,109742.37,Priya Sharma
+7/19/2024,South America,Chair,Furniture,307,971,298097,239837.64,58259.36,Maria Garcia
+5/3/2024,South America,AC,Home,459,121,55539,39906.44,15632.56,Sofia Rossi
+4/18/2024,USA,Microwave,Home,239,619,147941,127198.76,20742.24,Olivia Brown
+1/2/2024,Asia,Washing Machine,Home,373,453,168969,111357.68,57611.32,Olivia Brown
+7/13/2024,Africa,Laptop,Electronics,249,455,113295,85331.82,27963.18,Sofia Rossi
+5/20/2024,Europe,Sofa,Furniture,343,543,186249,151218.39,35030.61,John Doe
+1/14/2024,Middle East,Fridge,Home,487,739,359893,233859.32,126033.68,Priya Sharma
+7/19/2024,Africa,Mobile,Electronics,152,350,53200,40282.08,12917.92,Ahmed Ali
+9/1/2024,Asia,Sofa,Furniture,56,362,20272,15863.6,4408.4,Chen Wei
+7/18/2024,South America,Tablet,Electronics,129,308,39732,27335.68,12396.32,Ahmed Ali
+6/1/2024,Canada,Sofa,Furniture,380,551,209380,171628.48,37751.52,John Doe
+3/14/2024,Middle East,Microwave,Home,483,605,292215,221741.55,70473.45,John Doe
+3/27/2024,Australia,TV,Electronics,61,978,59658,53138.19,6519.81,Priya Sharma
+3/18/2024,Africa,Mobile,Electronics,368,832,306176,213021.29,93154.71,Chen Wei
+7/13/2024,Asia,Laptop,Electronics,136,380,51680,43474.31,8205.69,Sofia Rossi
+9/10/2024,South America,Chair,Furniture,114,771,87894,61260.55,26633.45,Ahmed Ali
+7/13/2024,USA,Chair,Furniture,78,453,35334,28147.67,7186.33,John Doe
+1/16/2024,South America,Sofa,Furniture,153,150,22950,15202.21,7747.79,Ahmed Ali
+3/19/2024,USA,Microwave,Home,236,954,225144,187839.36,37304.64,Sofia Rossi
+11/15/2024,South America,Washing Machine,Home,210,235,49350,33484.11,15865.89,John Doe
+10/4/2024,Australia,Fridge,Home,384,885,339840,262985.51,76854.49,John Doe
+11/8/2024,Africa,Chair,Furniture,134,154,20636,13425.76,7210.24,Liam Singh
+1/5/2024,Middle East,Microwave,Home,451,229,103279,85731.02,17547.98,Liam Singh
+11/25/2024,Australia,Mobile,Electronics,467,716,334372,286732.94,47639.06,Priya Sharma
+12/4/2024,Europe,Mobile,Electronics,443,783,346869,295330.15,51538.85,Sofia Rossi
+2/28/2024,South America,Sofa,Furniture,115,794,91310,78345.94,12964.06,John Doe
+10/5/2024,South America,Washing Machine,Home,209,649,135641,114181.01,21459.99,Liam Singh
+1/11/2024,South America,Mobile,Electronics,375,438,164250,135242.89,29007.11,Sofia Rossi
+8/3/2024,USA,Sofa,Furniture,384,242,92928,72658.92,20269.08,Ahmed Ali
+11/23/2024,Europe,AC,Home,67,343,22981,13913.11,9067.89,John Doe
+1/23/2024,USA,Microwave,Home,91,586,53326,42222.73,11103.27,Liam Singh
+1/19/2024,Canada,AC,Home,99,739,73161,50610.98,22550.02,Maria Garcia
+10/26/2024,Australia,Sofa,Furniture,314,642,201588,160034.42,41553.58,Sofia Rossi
+1/15/2024,South America,Laptop,Electronics,301,994,299194,253810.55,45383.45,Liam Singh
+6/4/2024,Africa,Chair,Furniture,482,900,433800,361340.71,72459.29,John Doe
+1/5/2024,Africa,Mobile,Electronics,136,486,66096,44878.78,21217.22,Priya Sharma
+2/27/2024,Middle East,Chair,Furniture,52,499,25948,23345.36,2602.64,Sofia Rossi
+12/23/2024,Australia,Chair,Furniture,331,865,286315,185464.64,100850.36,Ahmed Ali
+2/26/2024,South America,Microwave,Home,379,588,222852,147192.56,75659.44,Liam Singh
+8/20/2024,Asia,TV,Electronics,67,134,8978,7231.49,1746.51,Olivia Brown
+7/25/2024,Africa,Mobile,Electronics,170,193,32810,27616.48,5193.52,John Doe
+7/20/2024,USA,TV,Electronics,168,366,61488,39568.3,21919.7,Olivia Brown
+6/6/2024,Asia,Chair,Furniture,376,465,174840,114131.32,60708.68,Liam Singh
+11/18/2024,USA,Laptop,Electronics,240,275,66000,45431.7,20568.3,Ahmed Ali
+3/3/2024,South America,Chair,Furniture,207,893,184851,151334.75,33516.25,Maria Garcia
+8/31/2024,Africa,Fridge,Home,162,192,31104,18820.11,12283.89,Priya Sharma
+5/26/2024,Africa,Mobile,Electronics,329,572,188188,127966.56,60221.44,John Doe
+3/12/2024,South America,Mobile,Electronics,421,335,141035,95391.68,45643.32,Priya Sharma

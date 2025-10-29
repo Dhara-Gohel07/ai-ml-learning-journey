@@ -1,0 +1,11 @@
+
+Business Sales Analytics Insights
+----------------------------------
+• Total Revenue: $30,658,466.00
+• Total Profit: $7,104,030.41
+• Average Profit Margin: 23.50%
+
+Key Observations:
+- South America region generated the highest revenue ($5,616,819)
+- Profit margin varies significantly by product category and region
+- Clear seasonal and regional sales trends visible across timelines
