@@ -11,9 +11,8 @@ Each folder represents one day/weekend of my consistent practice and project-bas
 | 2 | Study Tracker | File Handling (JSON), OOP, CLI Interaction | ✅Completed |
 | 3 | K-Means from Scratch | NumPy, Clustering, Data Science | ✅Completed |
 | 4 | Sales Data Analyzer | Pandas Data Cleaning, GroupBy, Aggregation | ✅ Completed |
-| 4 | Employee Performance Analyzer | Pandas Advanced Analysis, Correlation, HR Analytics | ✅ 
-Completed |
-| 5 | Business Sales Analytics Dashboard — Data Visualization with Pandas, Matplotlib & Seaborn | ✅ Completed |
+| 4 | Employee Performance Analyzer | Pandas Advanced Analysis, Correlation, HR Analytics | ✅Completed |
+| 5 | Business Sales Analytics Dashboard — Data Visualization | Pandas, Matplotlib & Seaborn | ✅ Completed |
 
 
 ## 🧠 Skills Covered
