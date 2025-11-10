@@ -14,6 +14,9 @@ Each folder represents one day/weekend of my consistent practice and project-bas
 | 4 | Employee Performance Analyzer | Pandas Advanced Analysis, Correlation, HR Analytics | ✅ 
 Completed |
 | 5 | Business Sales Analytics Dashboard — Data Visualization with Pandas, Matplotlib & Seaborn | ✅ Completed |
+| 6 | House Price Data Split Project | Train-Test Split Concept Practice | ✅ Completed |
+| 6 | Employee Attrition Data Analysis | Data Exploration & Visualization | ✅ Completed |
+
 
 
 ## 🧠 Skills Covered
