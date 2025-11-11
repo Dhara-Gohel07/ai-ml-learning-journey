@@ -16,7 +16,8 @@ Completed |
 | 5 | Business Sales Analytics Dashboard — Data Visualization with Pandas, Matplotlib & Seaborn | ✅ Completed |
 | 6 | House Price Data Split Project | Train-Test Split Concept Practice | ✅ Completed |
 | 6 | Employee Attrition Data Analysis | Data Exploration & Visualization | ✅ Completed |
-
+| 7 | **Startup Profit Estimator** | Data Preprocessing, Feature Scaling, Correlation Analysis | ✅ Completed |
+| 7 | **Credit Card Default Risk Data Prep** | Data Cleaning, Encoding, Standardization, EDA | ✅ Completed |
 
 
 ## 🧠 Skills Covered
@@ -30,6 +31,10 @@ Completed |
 - **Matplotlib & Seaborn Visualizations**
 - **Data Cleaning & Transformation**
 - **Statistical Insights (Correlation, Grouping, Mean Analysis)**
+- **Data Cleaning & Transformation**
+- **Feature Scaling (MinMaxScaler, StandardScaler)**
+- **Correlation & Insight Generation**
+- **Categorical Encoding & Preprocessing**
 
 ---
 
