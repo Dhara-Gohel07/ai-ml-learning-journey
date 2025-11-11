@@ -53,7 +53,7 @@ pd.DataFrame(X_test_scaled, columns=X.columns).to_csv("test_scaled.csv", index=F
 
 #  Default Distribution 
 plt.figure(figsize=(7, 5))
-sns.countplot(x="Default", data=df, palette="coolwarm")
+sns.countplot(x="Default", data=df)
 plt.title("Customer Default Distribution")
 plt.tight_layout()
 plt.savefig("visuals/default_distribution.png")
@@ -62,7 +62,7 @@ plt.close()
 # Education vs Default 
 if "EDUCATION" in df.columns:
     plt.figure(figsize=(8, 6))
-    sns.barplot(x="EDUCATION", y="Default", data=df, palette="viridis", estimator=lambda x: sum(x)/len(x))
+    sns.barplot(x="EDUCATION", y="Default", data=df, hue="EDUCATION", palette="viridis", legend=False, estimator=lambda x: sum(x)/len(x))
     plt.title("Default Rate by Education Level")
     plt.tight_layout()
     plt.savefig("visuals/default_by_education.png")
