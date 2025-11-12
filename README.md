@@ -18,6 +18,9 @@ Completed |
 | 6 | Employee Attrition Data Analysis | Data Exploration & Visualization | ✅ Completed |
 | 7 | **Startup Profit Estimator** | Data Preprocessing, Feature Scaling, Correlation Analysis | ✅ Completed |
 | 7 | **Credit Card Default Risk Data Prep** | Data Cleaning, Encoding, Standardization, EDA | ✅ Completed |
+| 8 | Purchase Intent Predictor | Classification, Logistic Regression, Naive Bayes | ✅ Completed |
+| 8 (Extension) | Disease Diagnosis Predictor | Healthcare ML, Classification, Logistic Regression | ✅ Completed |
+
 
 
 ## 🧠 Skills Covered
@@ -35,6 +38,11 @@ Completed |
 - **Feature Scaling (MinMaxScaler, StandardScaler)**
 - **Correlation & Insight Generation**
 - **Categorical Encoding & Preprocessing**
+- **Machine Learning (Regression & Classification)**
+- **Model Evaluation (Confusion Matrix, F1-Score, Precision, Recall)**  
+- **Real-World ML Applications — E-Commerce & Healthcare**
+
+
 
 ---
 
