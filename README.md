@@ -20,7 +20,7 @@ Completed |
 | 7 | **Credit Card Default Risk Data Prep** | Data Cleaning, Encoding, Standardization, EDA | ✅ Completed |
 | 8 | Purchase Intent Predictor | Classification, Logistic Regression, Naive Bayes | ✅ Completed |
 | 8 (Extension) | Disease Diagnosis Predictor | Healthcare ML, Classification, Logistic Regression | ✅ Completed |
-
+|9|Stress Predictor| SVM, Decision Tree , KNN |  ✅ Completed |
 
 
 ## 🧠 Skills Covered
