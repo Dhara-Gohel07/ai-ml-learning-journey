@@ -1,6 +1,6 @@
 # 🚀 AI-ML Learning Journey
 
-Welcome to my AI/ML + Python self-learning journey!  
+Welcome to my AI/ML + Python self-learning journey!
 Each folder represents one day/weekend of my consistent practice and project-based learning.
 
 ## 📅 Progress Tracker
@@ -21,6 +21,7 @@ Completed |
 | 8 | Purchase Intent Predictor | Classification, Logistic Regression, Naive Bayes | ✅ Completed |
 | 8 (Extension) | Disease Diagnosis Predictor | Healthcare ML, Classification, Logistic Regression | ✅ Completed |
 |9|Stress Predictor| SVM, Decision Tree , KNN |  ✅ Completed |
+| 10 | TrendCluster — Social Media Trend Clustering | Unsupervised Learning (KMeans, Hierarchical, DBSCAN, Embeddings, t-SNE) | ✅ Completed |
 
 
 ## 🧠 Skills Covered
@@ -42,10 +43,7 @@ Completed |
 - **Model Evaluation (Confusion Matrix, F1-Score, Precision, Recall)**  
 - **Real-World ML Applications — E-Commerce & Healthcare**
 
-
-
 ---
 
 **Goal:**  
 Build 1 project every 1–2 days to improve logic, problem-solving, and real-world thinking in Python.  
-Progressing steadily towards becoming a confident **AI/ML Developer**.
