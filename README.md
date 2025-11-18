@@ -22,6 +22,7 @@ Completed |
 | 8 (Extension) | Disease Diagnosis Predictor | Healthcare ML, Classification, Logistic Regression | ✅ Completed |
 |9|Stress Predictor| SVM, Decision Tree , KNN |  ✅ Completed |
 | 10 | TrendCluster — Social Media Trend Clustering | Unsupervised Learning (KMeans, Hierarchical, DBSCAN, Embeddings, t-SNE) | ✅ Completed |
+| 11 | Lifestyle Analyzer — Behaviour Pattern Segmentation | Apriori, FP-Growth | ✅ Completed |
 
 
 ## 🧠 Skills Covered
@@ -42,6 +43,10 @@ Completed |
 - **Machine Learning (Regression & Classification)**
 - **Model Evaluation (Confusion Matrix, F1-Score, Precision, Recall)**  
 - **Real-World ML Applications — E-Commerce & Healthcare**
+- **Unsupervised Learning (Clustering, Pattern Finding)**
+- **Association Rule Mining (Apriori, FP-Growth)**
+- **Ensemble Learning (Voting, Bagging, Random Forest)**
+- **Real-World ML Applications — Retail, E-Commerce & Lifestyle Analytics**
 
 ---
 

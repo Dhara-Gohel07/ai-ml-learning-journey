@@ -1,0 +1,601 @@
+age,gender,income,sleep_hours,screen_time,fitness_level,vegetarian,purchase_categories,browsing_time,work_hours,family_size,stress_level,subscription
+19,F,110941,6,9,Medium,No,"['Travel Accessories', 'Books', 'Snacks']",57,7,3,Medium,Premium
+43,F,117921,4,3,Low,Yes,"['Home Decor', 'Running Shoes', 'Books']",22,11,7,Medium,Basic
+23,M,85151,7,6,Low,Yes,"['Mobile', 'Groceries']",44,9,5,High,Plus
+29,M,26688,4,3,Medium,Yes,"['Running Shoes', 'Travel Accessories', 'Protein Bar']",51,9,5,Low,Basic
+39,M,71428,9,3,Low,No,['Snacks'],89,9,3,High,Gold
+36,M,99579,6,8,Low,Yes,"['Laptop', 'Mobile']",81,8,3,Medium,Basic
+51,M,75257,6,5,High,No,"['Books', 'Fitness Bands', 'Cosmetics']",71,10,1,High,Gold
+56,F,53390,8,9,Low,Yes,"['Running Shoes', 'Cosmetics', 'Groceries', 'Laptop', 'Home Decor']",112,12,6,High,Premium
+36,F,65411,4,7,Low,No,['Books'],81,8,1,Medium,Plus
+34,M,87520,6,6,High,No,['Shoes'],25,6,6,Medium,Basic
+49,M,22385,9,3,Low,No,['Laptop'],21,10,7,Low,Plus
+28,M,118793,6,9,Medium,Yes,['Mobile'],14,11,3,High,Plus
+47,F,77713,9,7,Low,No,['Home Decor'],18,10,2,Medium,Plus
+27,M,77865,5,10,Medium,Yes,"['Books', 'Protein Bar', 'Laptop', 'Groceries']",56,6,6,High,Premium
+19,M,84840,7,6,Low,No,"['Cosmetics', 'Groceries']",46,7,4,Low,Basic
+30,F,94762,9,3,High,Yes,['Shoes'],105,10,2,Low,Basic
+48,F,46280,8,3,High,No,"['Laptop', 'Shoes']",24,8,3,Medium,Plus
+48,M,67762,7,3,High,No,"['Travel Accessories', 'Groceries', 'Electronics', 'Home Decor']",10,12,7,Low,Premium
+44,M,113541,5,9,High,No,"['Organic Food', 'Cosmetics']",108,12,2,High,Gold
+42,F,94994,7,7,Low,No,['Travel Accessories'],104,8,4,Low,Basic
+40,F,91109,4,7,High,No,"['Running Shoes', 'Groceries']",110,8,7,High,Gold
+34,M,47091,9,3,Low,Yes,"['Snacks', 'Electronics']",24,8,7,Medium,Premium
+31,F,74835,7,2,Low,Yes,"['Fitness Bands', 'Protein Bar', 'Mobile']",59,9,1,Low,Gold
+38,M,78064,8,4,Low,No,"['Electronics', 'Organic Food', 'Snacks', 'Home Decor']",51,10,4,Low,Gold
+25,M,96161,7,5,Low,Yes,"['Protein Bar', 'Organic Food', 'Books']",72,10,3,Low,Basic
+48,M,63540,6,2,Low,No,"['Mobile', 'Shoes', 'Home Decor', 'Running Shoes']",91,6,6,Low,Gold
+36,M,82626,6,4,Medium,No,"['Snacks', 'Travel Accessories', 'Groceries', 'Laptop', 'Mobile']",87,6,3,Low,Gold
+29,F,101331,7,8,Low,Yes,"['Running Shoes', 'Cosmetics', 'Fitness Bands']",29,11,3,Medium,Premium
+51,F,105537,7,6,High,Yes,"['Groceries', 'Running Shoes', 'Mobile', 'Electronics', 'Organic Food']",81,12,7,Low,Premium
+41,M,68344,8,8,Medium,No,"['Home Decor', 'Fitness Bands']",103,8,6,Low,Plus
+30,F,32355,7,5,Medium,No,"['Electronics', 'Mobile', 'Groceries']",101,6,2,High,Premium
+37,F,57224,9,7,Medium,No,"['Cosmetics', 'Groceries', 'Running Shoes']",86,11,7,Medium,Gold
+28,F,43065,4,2,Medium,Yes,"['Mobile', 'Snacks', 'Books']",60,12,7,High,Basic
+29,M,43237,5,3,Medium,Yes,"['Cosmetics', 'Electronics']",56,8,6,Low,Basic
+37,F,102695,5,5,High,No,"['Shoes', 'Fitness Bands', 'Organic Food']",51,10,3,High,Gold
+20,F,30106,8,3,Low,Yes,"['Mobile', 'Home Decor', 'Groceries', 'Shoes', 'Snacks']",72,9,6,Low,Gold
+46,F,116573,9,7,High,No,"['Fitness Bands', 'Home Decor', 'Groceries', 'Organic Food', 'Protein Bar']",117,6,6,Low,Premium
+46,F,106262,7,3,High,No,"['Cosmetics', 'Laptop']",15,6,2,Medium,Gold
+28,F,29976,4,8,Medium,No,"['Mobile', 'Laptop', 'Travel Accessories', 'Snacks', 'Fitness Bands']",47,11,1,Medium,Premium
+57,F,24953,5,9,Medium,No,"['Mobile', 'Books']",40,7,3,Low,Gold
+53,F,98735,6,4,High,Yes,"['Groceries', 'Protein Bar']",53,6,5,Medium,Plus
+38,M,79099,7,2,Medium,No,"['Travel Accessories', 'Organic Food', 'Running Shoes', 'Cosmetics']",98,12,1,Medium,Gold
+47,F,52594,5,10,High,No,"['Organic Food', 'Travel Accessories', 'Running Shoes', 'Cosmetics']",37,12,7,Low,Basic
+42,M,110934,9,5,High,Yes,"['Protein Bar', 'Shoes', 'Laptop', 'Travel Accessories', 'Fitness Bands']",34,8,1,Medium,Plus
+55,F,83733,4,4,High,No,"['Running Shoes', 'Protein Bar']",102,10,6,Low,Premium
+26,M,105800,9,3,High,No,"['Mobile', 'Running Shoes']",64,10,1,Low,Basic
+43,M,112407,8,10,Medium,No,"['Books', 'Fitness Bands', 'Organic Food']",100,11,3,Medium,Basic
+23,M,109037,9,10,Low,No,"['Snacks', 'Cosmetics', 'Travel Accessories', 'Home Decor']",52,7,3,Low,Basic
+27,F,109051,5,10,High,No,"['Laptop', 'Running Shoes', 'Travel Accessories']",43,7,7,Medium,Premium
+27,M,23746,8,3,High,No,['Running Shoes'],76,8,2,Medium,Premium
+18,F,111673,9,8,High,No,"['Mobile', 'Shoes', 'Protein Bar', 'Fitness Bands', 'Home Decor']",78,10,3,High,Premium
+44,F,82829,4,9,Low,Yes,['Electronics'],103,6,6,High,Gold
+23,M,36886,9,5,Medium,No,"['Travel Accessories', 'Books', 'Running Shoes', 'Groceries']",69,8,5,Low,Plus
+42,F,107013,6,3,High,No,"['Protein Bar', 'Organic Food']",116,11,6,High,Plus
+43,F,25946,7,7,Medium,No,['Cosmetics'],74,8,4,Medium,Plus
+43,M,67850,6,4,High,No,"['Travel Accessories', 'Protein Bar', 'Fitness Bands', 'Books']",94,9,5,Medium,Plus
+38,F,60439,7,3,High,No,['Home Decor'],73,12,6,High,Premium
+28,M,106430,9,8,Low,Yes,"['Home Decor', 'Running Shoes', 'Organic Food', 'Snacks', 'Cosmetics']",100,7,6,Low,Premium
+35,F,22042,7,8,Medium,Yes,['Groceries'],25,10,4,Low,Plus
+59,F,102820,8,5,Medium,Yes,"['Electronics', 'Protein Bar', 'Shoes']",49,11,6,Medium,Premium
+47,F,91512,9,3,Medium,Yes,"['Books', 'Mobile', 'Electronics', 'Fitness Bands']",101,10,3,Low,Gold
+22,F,85491,4,9,High,Yes,"['Home Decor', 'Cosmetics', 'Snacks', 'Running Shoes']",55,6,4,High,Plus
+51,F,110930,7,4,High,No,"['Mobile', 'Cosmetics', 'Protein Bar', 'Travel Accessories', 'Organic Food']",45,9,4,Low,Plus
+59,F,78568,5,2,High,No,['Organic Food'],79,12,5,Low,Plus
+48,M,44121,4,10,Low,No,"['Shoes', 'Laptop', 'Groceries']",47,8,4,High,Basic
+31,F,25594,4,9,Low,No,"['Books', 'Protein Bar', 'Home Decor']",45,9,7,Medium,Plus
+57,F,72821,6,7,Low,Yes,['Electronics'],96,11,1,Low,Premium
+54,M,64523,6,2,Medium,No,"['Fitness Bands', 'Books']",13,10,4,Medium,Plus
+40,F,86116,5,7,Medium,Yes,"['Travel Accessories', 'Mobile']",60,8,6,Medium,Plus
+32,F,72667,5,6,Medium,No,['Books'],39,10,1,Medium,Basic
+44,F,81261,4,10,Low,Yes,"['Laptop', 'Mobile', 'Books', 'Protein Bar']",48,11,6,Low,Gold
+54,M,110136,7,5,Low,No,"['Fitness Bands', 'Snacks', 'Running Shoes', 'Travel Accessories', 'Organic Food']",47,6,7,Medium,Basic
+39,M,23383,8,10,Medium,Yes,"['Snacks', 'Organic Food', 'Running Shoes', 'Cosmetics']",42,8,7,Low,Gold
+50,M,45783,6,8,Low,No,['Fitness Bands'],32,10,3,High,Plus
+18,M,67673,8,7,High,Yes,"['Protein Bar', 'Home Decor', 'Snacks', 'Running Shoes']",55,10,1,Low,Premium
+32,F,55707,6,2,Low,Yes,"['Travel Accessories', 'Cosmetics', 'Books', 'Mobile']",89,9,6,High,Basic
+54,M,105193,7,6,Medium,Yes,"['Groceries', 'Organic Food', 'Snacks']",90,9,3,Medium,Gold
+51,F,25909,6,4,Medium,No,"['Books', 'Organic Food', 'Shoes']",16,11,2,High,Plus
+34,F,29768,8,2,High,Yes,"['Fitness Bands', 'Snacks']",108,10,3,Low,Premium
+59,F,118938,4,7,High,No,"['Groceries', 'Mobile']",111,11,3,High,Plus
+40,M,72366,4,8,High,Yes,"['Running Shoes', 'Books', 'Mobile', 'Travel Accessories']",16,6,6,Medium,Premium
+36,F,50483,5,2,Low,No,['Laptop'],84,10,4,Medium,Basic
+43,M,101769,5,3,Low,No,"['Groceries', 'Fitness Bands', 'Travel Accessories']",46,7,2,High,Plus
+47,F,93953,7,2,High,Yes,"['Cosmetics', 'Protein Bar', 'Home Decor']",42,11,5,Low,Plus
+56,F,77140,9,6,Low,Yes,"['Home Decor', 'Snacks', 'Organic Food', 'Laptop', 'Protein Bar']",64,12,3,High,Premium
+43,M,97971,5,5,High,Yes,"['Groceries', 'Protein Bar', 'Shoes']",36,9,6,High,Premium
+44,F,92118,8,8,Medium,Yes,"['Shoes', 'Electronics', 'Snacks', 'Groceries', 'Laptop']",38,9,4,Low,Gold
+43,F,99579,8,3,Low,No,"['Groceries', 'Organic Food', 'Fitness Bands', 'Running Shoes']",114,8,2,High,Basic
+25,F,99775,6,9,Medium,No,"['Fitness Bands', 'Electronics', 'Organic Food']",52,6,4,High,Basic
+50,F,34488,7,5,Low,No,"['Protein Bar', 'Cosmetics', 'Groceries']",91,11,7,Medium,Gold
+44,M,81743,6,6,High,Yes,"['Travel Accessories', 'Books', 'Organic Food', 'Groceries']",94,12,3,High,Plus
+57,F,30449,7,4,Low,No,['Running Shoes'],10,8,1,High,Basic
+26,M,68129,6,2,Medium,Yes,['Electronics'],52,6,6,Medium,Plus
+49,F,32522,9,10,Low,Yes,"['Travel Accessories', 'Shoes', 'Electronics']",69,7,6,High,Plus
+56,M,54976,5,4,Medium,No,['Home Decor'],72,9,3,High,Premium
+23,M,87907,6,8,High,Yes,"['Groceries', 'Shoes', 'Snacks', 'Books', 'Travel Accessories']",116,9,2,Low,Plus
+32,F,69658,6,6,Medium,No,"['Mobile', 'Electronics', 'Running Shoes', 'Home Decor', 'Fitness Bands']",102,10,2,Medium,Premium
+37,F,82700,8,5,High,Yes,"['Travel Accessories', 'Cosmetics', 'Fitness Bands']",95,7,2,Low,Gold
+28,F,34442,6,2,Medium,No,"['Books', 'Travel Accessories']",24,6,7,Low,Gold
+21,M,50180,7,2,High,Yes,['Home Decor'],19,9,7,High,Basic
+43,F,73812,8,5,Low,No,"['Protein Bar', 'Home Decor', 'Organic Food', 'Snacks']",104,7,7,High,Premium
+41,F,43511,4,3,Low,Yes,"['Mobile', 'Shoes', 'Running Shoes', 'Snacks']",51,6,6,Medium,Basic
+43,M,79342,4,10,Low,Yes,"['Laptop', 'Protein Bar']",19,12,5,Low,Gold
+24,F,83093,7,8,Low,No,"['Fitness Bands', 'Running Shoes', 'Groceries', 'Laptop']",84,10,1,High,Premium
+41,M,31281,9,5,Low,Yes,"['Electronics', 'Running Shoes', 'Fitness Bands', 'Groceries', 'Shoes']",16,9,4,Medium,Premium
+52,M,43752,5,3,Low,No,"['Electronics', 'Protein Bar']",73,7,3,Medium,Gold
+55,M,59266,8,7,High,No,"['Snacks', 'Cosmetics', 'Books', 'Shoes']",18,6,3,Low,Basic
+51,F,116280,6,8,High,No,"['Cosmetics', 'Organic Food', 'Mobile', 'Electronics', 'Fitness Bands']",34,10,1,Medium,Basic
+44,F,21077,7,2,Low,Yes,"['Books', 'Protein Bar', 'Home Decor']",27,7,5,Medium,Premium
+60,F,32796,9,4,Medium,Yes,"['Shoes', 'Books', 'Laptop', 'Organic Food', 'Snacks']",20,10,5,Low,Plus
+51,F,55781,8,2,Low,Yes,"['Home Decor', 'Snacks', 'Cosmetics', 'Organic Food']",24,6,2,High,Basic
+59,M,34965,8,4,Low,No,"['Mobile', 'Books']",32,10,2,Medium,Basic
+36,M,43088,8,2,Medium,No,"['Organic Food', 'Protein Bar', 'Electronics', 'Cosmetics', 'Laptop']",34,6,5,High,Plus
+30,M,77931,8,8,Medium,No,"['Snacks', 'Shoes', 'Books', 'Electronics', 'Organic Food']",62,6,1,High,Plus
+22,M,117991,5,7,Medium,No,"['Organic Food', 'Running Shoes', 'Shoes', 'Books', 'Groceries']",31,7,6,High,Gold
+51,M,109326,9,4,Medium,Yes,"['Laptop', 'Fitness Bands', 'Travel Accessories', 'Snacks', 'Home Decor']",27,9,6,Medium,Gold
+27,M,54669,6,6,Low,Yes,"['Home Decor', 'Electronics', 'Organic Food']",96,8,5,Low,Basic
+32,M,42847,6,5,High,Yes,"['Snacks', 'Shoes']",105,9,7,High,Basic
+59,M,83402,8,7,Low,Yes,"['Electronics', 'Cosmetics', 'Laptop', 'Mobile']",105,6,3,High,Basic
+55,F,20604,5,6,Low,Yes,"['Electronics', 'Mobile', 'Fitness Bands', 'Organic Food', 'Protein Bar']",87,10,2,High,Basic
+23,M,78551,9,4,Medium,Yes,"['Fitness Bands', 'Protein Bar', 'Books']",116,6,6,Medium,Basic
+39,F,50968,8,10,Low,No,['Groceries'],26,10,7,Low,Premium
+27,F,94239,7,7,Medium,No,"['Protein Bar', 'Electronics', 'Running Shoes']",99,7,7,Medium,Premium
+38,M,64331,4,4,Medium,No,"['Groceries', 'Shoes']",107,8,6,Low,Basic
+37,F,73690,8,2,High,No,"['Home Decor', 'Mobile']",104,7,5,Low,Basic
+30,F,21179,5,5,Low,Yes,"['Books', 'Travel Accessories', 'Snacks', 'Protein Bar', 'Fitness Bands']",32,9,3,Medium,Gold
+55,F,97605,8,3,High,Yes,"['Home Decor', 'Mobile']",24,8,6,High,Plus
+54,F,38600,8,10,Low,No,"['Groceries', 'Organic Food']",37,6,6,Low,Plus
+33,M,74718,8,9,Medium,No,"['Organic Food', 'Mobile']",94,11,5,Low,Plus
+57,F,78862,5,7,Medium,Yes,"['Organic Food', 'Protein Bar', 'Mobile', 'Running Shoes']",62,9,5,Low,Gold
+31,M,113839,5,7,Low,Yes,['Shoes'],31,12,1,Low,Plus
+23,M,103450,5,7,Medium,No,"['Running Shoes', 'Travel Accessories', 'Books', 'Shoes']",30,8,2,Medium,Premium
+45,M,55259,9,10,Low,No,"['Groceries', 'Laptop', 'Protein Bar', 'Organic Food', 'Fitness Bands']",117,7,4,Low,Basic
+30,F,72359,8,9,High,Yes,"['Organic Food', 'Electronics', 'Books', 'Fitness Bands', 'Travel Accessories']",18,12,2,Low,Premium
+41,M,117864,6,5,Medium,Yes,"['Mobile', 'Snacks', 'Books', 'Home Decor', 'Electronics']",71,9,6,High,Premium
+32,M,39226,9,10,Medium,No,"['Running Shoes', 'Protein Bar', 'Snacks', 'Home Decor', 'Organic Food']",90,6,4,Low,Plus
+57,M,45088,9,2,Medium,Yes,['Home Decor'],102,9,1,Medium,Gold
+30,M,49535,4,8,High,Yes,"['Mobile', 'Laptop']",17,10,4,High,Basic
+36,F,98470,8,4,Low,Yes,"['Organic Food', 'Snacks', 'Home Decor']",65,11,5,High,Premium
+52,M,37856,6,5,Low,Yes,"['Snacks', 'Running Shoes', 'Fitness Bands', 'Electronics']",91,10,3,Medium,Plus
+41,M,57098,5,9,Medium,No,"['Electronics', 'Fitness Bands', 'Travel Accessories', 'Home Decor']",59,7,4,Low,Premium
+53,M,84907,7,4,High,Yes,"['Fitness Bands', 'Mobile']",120,7,7,Medium,Gold
+21,F,86364,9,6,Low,No,['Protein Bar'],29,9,7,Medium,Premium
+33,M,116195,5,10,Low,No,"['Organic Food', 'Home Decor', 'Mobile']",61,9,7,High,Premium
+30,F,77355,5,4,High,No,"['Books', 'Shoes', 'Groceries']",84,6,7,Low,Premium
+29,F,68423,4,6,Medium,No,"['Books', 'Shoes', 'Electronics']",118,9,1,Low,Gold
+24,M,88805,9,5,Medium,No,['Running Shoes'],54,11,4,Medium,Plus
+54,M,102454,4,6,Low,No,['Organic Food'],116,10,4,Low,Gold
+47,F,20803,5,6,High,Yes,"['Groceries', 'Running Shoes', 'Mobile']",96,11,6,Low,Basic
+32,M,48930,4,5,Medium,No,"['Fitness Bands', 'Organic Food', 'Running Shoes', 'Home Decor', 'Mobile']",110,7,3,Medium,Gold
+42,M,26044,7,4,High,No,['Home Decor'],115,7,7,Low,Basic
+48,M,99638,7,8,Low,No,['Protein Bar'],20,11,1,Medium,Premium
+22,F,37930,7,10,High,Yes,"['Protein Bar', 'Running Shoes', 'Mobile', 'Laptop', 'Travel Accessories']",112,9,3,Medium,Premium
+33,F,49082,7,8,High,No,"['Groceries', 'Cosmetics', 'Home Decor', 'Snacks', 'Books']",76,11,4,Low,Basic
+45,F,113410,8,2,High,No,['Travel Accessories'],103,7,2,Low,Premium
+41,M,57753,7,2,Low,Yes,"['Protein Bar', 'Mobile', 'Electronics', 'Laptop', 'Fitness Bands']",67,11,6,Low,Premium
+35,F,93236,7,7,Medium,No,"['Travel Accessories', 'Mobile', 'Organic Food']",32,7,3,High,Premium
+39,F,66874,7,2,Medium,Yes,"['Mobile', 'Travel Accessories']",48,10,3,High,Plus
+42,F,89285,7,10,Low,Yes,['Electronics'],60,12,6,High,Plus
+44,M,22589,9,9,High,No,"['Mobile', 'Laptop', 'Snacks', 'Home Decor', 'Books']",88,8,3,High,Basic
+55,F,104359,5,7,High,Yes,"['Protein Bar', 'Laptop', 'Travel Accessories', 'Electronics']",109,7,3,Low,Basic
+39,F,112879,9,2,High,Yes,['Electronics'],53,6,6,High,Basic
+36,F,43460,7,7,Medium,No,"['Laptop', 'Organic Food', 'Fitness Bands', 'Books']",43,8,6,Low,Gold
+58,M,39173,8,4,High,Yes,['Organic Food'],43,9,5,Low,Premium
+51,M,96510,9,7,High,Yes,"['Organic Food', 'Fitness Bands']",38,6,4,Low,Gold
+45,M,117588,8,7,Low,No,"['Books', 'Laptop']",32,8,6,Medium,Premium
+37,F,102146,9,10,Medium,Yes,['Books'],86,6,7,Medium,Plus
+49,M,63270,7,3,Medium,No,['Shoes'],64,9,1,Low,Gold
+29,F,119048,5,7,Medium,No,"['Laptop', 'Organic Food', 'Running Shoes']",120,10,5,High,Plus
+44,M,51513,6,9,High,Yes,"['Electronics', 'Shoes', 'Travel Accessories', 'Mobile']",97,12,1,High,Plus
+32,M,50136,7,8,Medium,Yes,"['Laptop', 'Snacks', 'Mobile', 'Protein Bar']",20,6,7,Medium,Basic
+57,F,119963,9,7,Low,No,['Books'],80,9,5,High,Gold
+24,F,62271,5,3,Medium,No,"['Protein Bar', 'Laptop', 'Shoes', 'Books', 'Travel Accessories']",45,9,3,High,Premium
+46,F,64368,6,9,Medium,No,"['Books', 'Running Shoes']",40,7,3,Low,Premium
+50,M,94402,6,10,Low,No,"['Protein Bar', 'Books', 'Mobile', 'Electronics', 'Shoes']",68,6,6,Low,Gold
+38,M,81068,6,3,Low,No,"['Running Shoes', 'Snacks', 'Protein Bar', 'Mobile', 'Travel Accessories']",78,10,2,Low,Premium
+26,F,39351,5,8,High,No,"['Electronics', 'Travel Accessories']",117,7,6,High,Premium
+21,F,114028,9,8,High,No,"['Fitness Bands', 'Travel Accessories', 'Organic Food']",74,10,2,Medium,Premium
+42,F,106272,8,10,Medium,No,"['Books', 'Fitness Bands', 'Cosmetics', 'Protein Bar']",39,12,6,Low,Plus
+22,M,24247,5,3,High,No,"['Books', 'Organic Food', 'Shoes']",36,9,4,Medium,Premium
+53,M,110642,6,5,High,No,"['Protein Bar', 'Mobile', 'Snacks', 'Home Decor', 'Shoes']",94,6,5,Medium,Premium
+40,F,23401,4,8,High,Yes,"['Electronics', 'Travel Accessories', 'Home Decor', 'Shoes']",84,10,6,Low,Plus
+34,M,75988,6,3,Low,No,['Running Shoes'],110,12,7,Medium,Basic
+60,M,35656,4,6,Low,No,"['Protein Bar', 'Fitness Bands', 'Home Decor', 'Shoes', 'Running Shoes']",90,12,1,Low,Premium
+50,M,113062,4,7,Low,Yes,"['Fitness Bands', 'Home Decor', 'Organic Food', 'Protein Bar', 'Snacks']",119,9,1,Low,Basic
+33,M,110160,8,9,High,No,"['Fitness Bands', 'Electronics', 'Groceries', 'Snacks']",73,7,5,Medium,Basic
+44,M,89575,6,6,Low,Yes,"['Running Shoes', 'Home Decor', 'Electronics', 'Laptop', 'Fitness Bands']",16,11,5,Low,Premium
+19,F,44528,8,6,Low,Yes,"['Running Shoes', 'Home Decor']",57,9,3,Low,Basic
+29,M,117817,8,10,Low,Yes,"['Organic Food', 'Fitness Bands', 'Books', 'Home Decor', 'Protein Bar']",100,10,7,High,Premium
+48,F,25550,8,6,High,No,['Snacks'],56,7,2,Low,Plus
+57,M,51237,9,10,Medium,No,['Laptop'],25,6,4,High,Gold
+39,M,73011,6,7,Low,No,"['Mobile', 'Groceries', 'Electronics']",79,9,5,Medium,Basic
+46,F,99957,7,3,Medium,Yes,"['Fitness Bands', 'Books', 'Running Shoes', 'Cosmetics']",36,12,3,Medium,Premium
+27,M,81999,7,4,High,Yes,"['Cosmetics', 'Fitness Bands', 'Travel Accessories', 'Books', 'Snacks']",11,11,5,Medium,Premium
+24,M,98070,5,10,Low,Yes,"['Snacks', 'Groceries', 'Organic Food', 'Protein Bar', 'Mobile']",101,11,2,Low,Plus
+38,M,116785,4,2,High,No,"['Organic Food', 'Travel Accessories']",14,9,5,Low,Gold
+45,M,51961,9,5,Low,No,"['Running Shoes', 'Electronics', 'Cosmetics', 'Books']",12,10,4,Medium,Gold
+53,F,48299,5,4,Low,No,"['Electronics', 'Snacks', 'Fitness Bands']",21,8,2,Medium,Plus
+48,M,98973,6,4,Low,Yes,"['Protein Bar', 'Cosmetics']",56,12,1,Medium,Gold
+42,F,31997,4,4,Medium,Yes,"['Running Shoes', 'Fitness Bands', 'Snacks']",78,10,6,Low,Premium
+52,F,105669,6,4,Low,No,"['Books', 'Mobile', 'Home Decor', 'Electronics']",111,10,6,Low,Premium
+53,M,31685,4,5,Medium,Yes,"['Fitness Bands', 'Books', 'Organic Food', 'Running Shoes']",80,10,1,High,Plus
+37,F,101516,4,9,Low,Yes,"['Books', 'Laptop', 'Shoes']",12,10,3,Medium,Basic
+38,M,96687,6,4,Medium,No,"['Books', 'Protein Bar', 'Cosmetics', 'Travel Accessories']",53,8,5,Low,Gold
+60,M,25794,5,8,High,Yes,"['Mobile', 'Running Shoes', 'Snacks', 'Electronics']",83,8,1,Low,Gold
+37,M,64507,8,6,Medium,No,['Groceries'],18,7,4,High,Basic
+45,F,20492,7,2,Medium,Yes,"['Laptop', 'Running Shoes']",46,8,7,Medium,Premium
+38,F,95907,9,5,Medium,No,"['Groceries', 'Books']",58,6,6,High,Premium
+38,M,103916,6,9,Low,No,"['Snacks', 'Electronics']",54,9,1,High,Gold
+25,M,31153,7,8,Medium,No,"['Shoes', 'Electronics', 'Running Shoes', 'Fitness Bands']",87,7,1,Low,Basic
+24,M,83012,4,2,Low,Yes,"['Snacks', 'Protein Bar', 'Books']",101,6,1,Low,Premium
+43,M,46079,6,7,Medium,No,"['Books', 'Protein Bar', 'Groceries', 'Mobile', 'Snacks']",104,7,7,Medium,Basic
+50,F,42958,7,3,Low,Yes,['Electronics'],50,12,6,Medium,Plus
+32,M,27090,7,3,Low,Yes,"['Running Shoes', 'Groceries', 'Snacks']",111,8,2,Low,Basic
+32,F,115175,4,9,Medium,Yes,['Home Decor'],66,11,1,Low,Gold
+32,F,102732,5,10,Low,Yes,"['Organic Food', 'Home Decor', 'Shoes', 'Mobile', 'Cosmetics']",67,10,7,High,Basic
+22,F,86843,4,7,Low,Yes,"['Cosmetics', 'Home Decor', 'Groceries', 'Laptop']",19,10,2,High,Gold
+52,M,81772,4,9,Medium,No,['Travel Accessories'],52,10,2,High,Gold
+51,M,40271,5,6,Low,Yes,"['Fitness Bands', 'Home Decor']",46,9,1,Low,Plus
+35,F,46681,6,9,Low,Yes,['Home Decor'],102,8,7,Low,Plus
+23,M,74242,5,2,Low,No,"['Snacks', 'Running Shoes', 'Groceries']",19,12,3,Medium,Basic
+33,M,31167,8,3,Medium,Yes,"['Protein Bar', 'Electronics', 'Fitness Bands']",83,10,3,High,Premium
+52,M,25429,8,10,High,Yes,['Mobile'],17,10,5,Medium,Plus
+47,M,21051,8,6,High,No,"['Laptop', 'Snacks', 'Running Shoes', 'Shoes', 'Protein Bar']",44,7,3,High,Basic
+55,F,65939,9,4,Medium,Yes,['Mobile'],120,10,5,Medium,Premium
+42,M,102023,8,3,Medium,No,"['Snacks', 'Running Shoes', 'Home Decor', 'Protein Bar']",69,7,1,Low,Gold
+59,M,30844,9,6,High,No,"['Shoes', 'Organic Food', 'Home Decor', 'Protein Bar']",37,11,5,Low,Basic
+29,M,35321,7,10,High,No,"['Protein Bar', 'Cosmetics', 'Mobile', 'Electronics']",83,6,3,High,Gold
+46,F,115107,6,6,Low,Yes,"['Organic Food', 'Mobile', 'Fitness Bands', 'Snacks']",84,8,2,Low,Premium
+52,F,68133,4,5,Medium,No,['Organic Food'],41,7,5,High,Gold
+42,M,99051,6,4,Low,Yes,"['Mobile', 'Travel Accessories', 'Electronics', 'Laptop', 'Home Decor']",34,12,4,High,Gold
+31,F,64925,9,7,Medium,Yes,"['Running Shoes', 'Travel Accessories', 'Books', 'Mobile']",99,6,2,High,Premium
+46,M,71819,7,8,Low,No,"['Mobile', 'Home Decor', 'Protein Bar', 'Fitness Bands', 'Books']",20,9,6,Medium,Basic
+50,M,53985,8,3,Medium,Yes,"['Mobile', 'Running Shoes', 'Groceries', 'Protein Bar']",82,12,3,High,Basic
+52,F,90466,5,7,High,Yes,['Mobile'],90,10,2,High,Gold
+27,M,57411,6,9,Low,No,"['Groceries', 'Travel Accessories', 'Cosmetics']",109,10,5,High,Premium
+52,F,21178,4,4,High,No,"['Snacks', 'Fitness Bands']",97,11,1,Medium,Gold
+45,F,41605,9,9,High,Yes,"['Books', 'Laptop', 'Snacks']",120,10,6,Medium,Gold
+54,F,96678,7,5,Medium,Yes,"['Electronics', 'Mobile', 'Organic Food', 'Fitness Bands']",115,7,3,Low,Premium
+48,M,63851,4,8,High,No,"['Electronics', 'Mobile', 'Laptop', 'Shoes']",45,9,4,Medium,Gold
+42,M,36483,6,4,Low,No,"['Travel Accessories', 'Snacks', 'Cosmetics']",18,8,4,Medium,Basic
+31,M,50673,6,7,Medium,No,"['Groceries', 'Cosmetics', 'Fitness Bands']",23,12,7,Medium,Plus
+47,F,75081,9,9,High,No,"['Cosmetics', 'Shoes', 'Laptop', 'Travel Accessories']",109,7,2,Medium,Premium
+23,M,23856,9,10,High,Yes,"['Cosmetics', 'Travel Accessories']",105,12,5,Medium,Gold
+33,F,75804,7,8,High,Yes,"['Cosmetics', 'Groceries']",22,9,3,Low,Basic
+40,F,119564,4,2,Medium,No,"['Mobile', 'Books', 'Snacks']",41,10,1,High,Premium
+29,F,111402,6,9,High,No,"['Electronics', 'Mobile', 'Cosmetics']",11,6,6,Medium,Gold
+60,F,63514,5,10,Low,No,['Snacks'],101,12,4,Low,Premium
+59,F,45660,5,5,Low,No,"['Travel Accessories', 'Organic Food']",117,8,4,Medium,Premium
+31,F,43332,6,9,Medium,Yes,"['Organic Food', 'Mobile', 'Home Decor', 'Groceries', 'Fitness Bands']",19,8,2,Low,Basic
+44,M,75277,6,8,Medium,Yes,['Protein Bar'],95,9,5,Low,Plus
+60,M,108091,5,2,Low,No,"['Organic Food', 'Laptop', 'Groceries', 'Fitness Bands', 'Cosmetics']",74,6,5,Medium,Plus
+24,F,32921,9,10,High,Yes,['Cosmetics'],32,8,5,Low,Basic
+30,M,44336,6,7,Low,No,"['Fitness Bands', 'Groceries', 'Home Decor', 'Organic Food']",87,6,4,High,Plus
+41,F,116052,9,8,Low,No,['Laptop'],39,7,4,Low,Plus
+19,M,36011,4,9,Medium,No,"['Shoes', 'Snacks']",80,9,4,Low,Gold
+40,F,35463,4,10,Medium,Yes,"['Mobile', 'Books', 'Fitness Bands', 'Electronics']",51,7,7,High,Plus
+35,M,50293,4,2,Medium,Yes,"['Protein Bar', 'Home Decor']",97,9,5,Low,Premium
+30,M,89526,9,2,Medium,Yes,"['Travel Accessories', 'Cosmetics', 'Running Shoes']",65,8,3,Low,Plus
+54,M,115362,7,3,Medium,No,"['Fitness Bands', 'Home Decor', 'Organic Food', 'Travel Accessories']",63,8,2,Low,Basic
+22,F,111583,8,3,High,No,"['Fitness Bands', 'Shoes', 'Travel Accessories', 'Protein Bar']",79,7,1,Low,Basic
+18,M,23947,8,5,Low,Yes,"['Cosmetics', 'Books', 'Organic Food']",31,6,4,Medium,Gold
+26,M,87460,7,2,Medium,Yes,"['Snacks', 'Books', 'Mobile']",40,7,3,High,Basic
+19,M,112534,5,7,High,No,"['Electronics', 'Cosmetics', 'Mobile', 'Running Shoes', 'Snacks']",108,12,7,High,Plus
+32,M,35629,9,6,High,No,"['Groceries', 'Snacks', 'Protein Bar']",63,7,1,Low,Premium
+37,F,41093,6,2,Low,Yes,"['Fitness Bands', 'Shoes', 'Home Decor', 'Electronics', 'Mobile']",40,7,3,Medium,Gold
+45,M,46870,5,4,Medium,No,"['Electronics', 'Running Shoes', 'Books']",80,11,3,Low,Gold
+56,M,65528,8,5,Medium,Yes,"['Mobile', 'Shoes', 'Books', 'Protein Bar']",49,9,7,Medium,Plus
+46,F,79985,5,10,High,No,['Cosmetics'],14,6,6,Low,Gold
+44,M,96640,4,5,High,Yes,"['Organic Food', 'Home Decor']",70,6,5,High,Premium
+53,F,39585,5,5,Medium,No,"['Groceries', 'Shoes']",63,8,3,Low,Basic
+27,M,81999,7,10,Medium,Yes,"['Organic Food', 'Shoes', 'Protein Bar', 'Laptop']",32,8,7,High,Gold
+24,M,65414,4,7,High,No,"['Books', 'Electronics', 'Fitness Bands', 'Home Decor']",108,9,3,High,Gold
+49,F,57232,4,6,High,Yes,['Groceries'],66,12,2,Low,Plus
+32,F,65529,9,5,Medium,No,"['Electronics', 'Laptop', 'Fitness Bands']",22,8,7,Low,Premium
+47,F,110524,9,5,Low,Yes,"['Protein Bar', 'Organic Food']",17,6,3,High,Plus
+52,F,74849,7,4,High,No,['Groceries'],30,8,5,Low,Gold
+25,F,48564,4,3,Low,No,"['Cosmetics', 'Home Decor', 'Electronics', 'Groceries', 'Protein Bar']",83,12,6,High,Basic
+22,F,90411,6,4,High,Yes,"['Home Decor', 'Groceries', 'Shoes', 'Electronics']",87,6,4,Low,Plus
+29,M,48100,9,6,Low,No,"['Mobile', 'Protein Bar', 'Books', 'Groceries', 'Electronics']",73,7,1,Medium,Basic
+23,M,94140,5,6,High,No,"['Shoes', 'Snacks']",101,12,6,High,Premium
+19,M,21391,5,10,High,No,['Laptop'],23,12,7,Medium,Plus
+57,F,26040,4,9,Low,Yes,"['Protein Bar', 'Mobile']",51,10,2,Medium,Premium
+25,F,28358,4,7,Medium,No,"['Mobile', 'Groceries', 'Protein Bar', 'Snacks', 'Cosmetics']",24,9,7,High,Premium
+39,M,50366,9,5,High,No,['Books'],34,8,1,Medium,Plus
+27,F,87768,4,6,Medium,Yes,"['Fitness Bands', 'Snacks', 'Mobile']",87,8,2,High,Premium
+19,M,82007,9,5,Medium,Yes,"['Snacks', 'Running Shoes', 'Travel Accessories', 'Electronics', 'Organic Food']",58,12,3,Medium,Gold
+45,M,74110,7,6,Medium,Yes,"['Shoes', 'Snacks', 'Home Decor', 'Laptop', 'Books']",68,10,6,Medium,Plus
+23,F,55965,9,9,Low,No,['Groceries'],53,7,1,Low,Gold
+24,F,79050,7,3,Low,No,"['Electronics', 'Shoes', 'Protein Bar', 'Running Shoes', 'Groceries']",94,9,4,Medium,Plus
+49,M,34602,5,3,High,No,['Books'],118,6,5,High,Plus
+50,F,66935,5,3,High,Yes,"['Cosmetics', 'Groceries', 'Laptop']",10,6,7,Low,Plus
+45,M,114537,6,8,Medium,Yes,"['Shoes', 'Electronics']",120,12,5,High,Gold
+58,M,116547,6,3,Low,Yes,"['Running Shoes', 'Laptop', 'Groceries', 'Electronics', 'Mobile']",11,10,4,Medium,Gold
+18,F,21036,4,7,Low,Yes,"['Groceries', 'Protein Bar', 'Shoes']",11,12,4,Medium,Basic
+50,M,65061,6,6,Medium,No,"['Fitness Bands', 'Organic Food', 'Snacks', 'Travel Accessories']",98,7,1,High,Basic
+41,F,74789,4,7,High,Yes,"['Organic Food', 'Fitness Bands', 'Mobile', 'Cosmetics', 'Shoes']",64,9,7,Medium,Gold
+32,M,73329,6,6,Medium,No,['Travel Accessories'],120,8,1,High,Gold
+29,F,52395,8,3,Medium,Yes,['Electronics'],87,12,6,High,Plus
+26,F,78707,7,2,Medium,No,"['Organic Food', 'Mobile', 'Travel Accessories']",67,10,2,Medium,Gold
+60,M,35332,6,4,Medium,No,"['Shoes', 'Protein Bar']",85,10,1,Medium,Premium
+44,F,115069,8,2,Low,Yes,"['Organic Food', 'Mobile', 'Laptop', 'Protein Bar', 'Books']",85,6,5,High,Basic
+27,M,95834,5,6,Medium,Yes,"['Home Decor', 'Fitness Bands', 'Protein Bar']",48,7,1,Low,Gold
+34,M,56021,9,8,Low,No,"['Snacks', 'Travel Accessories']",96,12,3,Low,Gold
+37,F,99387,4,3,Medium,Yes,['Fitness Bands'],47,6,1,Low,Basic
+33,M,89548,8,5,High,Yes,"['Travel Accessories', 'Protein Bar', 'Running Shoes']",42,10,5,Low,Plus
+56,F,21674,4,7,Low,No,['Fitness Bands'],112,8,4,Low,Basic
+46,F,82977,8,6,Low,Yes,"['Groceries', 'Shoes']",59,9,4,Low,Gold
+42,F,40482,6,5,Low,Yes,"['Organic Food', 'Cosmetics', 'Travel Accessories', 'Shoes']",69,11,4,Medium,Plus
+49,F,21324,4,6,Low,Yes,"['Travel Accessories', 'Home Decor', 'Mobile', 'Electronics', 'Cosmetics']",89,12,1,Low,Basic
+45,M,95023,9,10,Low,Yes,['Snacks'],108,9,1,Medium,Gold
+59,F,58116,9,8,High,Yes,"['Cosmetics', 'Home Decor', 'Travel Accessories', 'Shoes', 'Fitness Bands']",52,7,3,Medium,Basic
+19,F,76988,8,5,Low,No,"['Home Decor', 'Protein Bar', 'Cosmetics', 'Mobile', 'Electronics']",41,10,4,Medium,Basic
+27,M,59832,4,6,High,No,"['Organic Food', 'Groceries', 'Cosmetics', 'Fitness Bands']",59,10,7,High,Premium
+47,M,55358,9,8,Low,No,"['Protein Bar', 'Organic Food', 'Laptop', 'Travel Accessories', 'Electronics']",112,12,2,Low,Gold
+24,F,112795,7,5,High,Yes,"['Cosmetics', 'Home Decor', 'Shoes']",52,8,4,High,Basic
+41,M,80180,9,10,Low,No,"['Snacks', 'Protein Bar']",78,6,4,Medium,Gold
+56,F,59748,5,2,Low,No,"['Laptop', 'Travel Accessories', 'Home Decor']",52,9,6,Low,Basic
+20,M,37602,5,7,Low,Yes,"['Electronics', 'Laptop', 'Travel Accessories', 'Shoes', 'Running Shoes']",112,11,2,Medium,Gold
+46,F,39500,7,3,Low,Yes,"['Fitness Bands', 'Travel Accessories']",108,11,1,Low,Gold
+54,M,91575,5,7,Medium,Yes,"['Travel Accessories', 'Protein Bar']",21,10,2,High,Premium
+28,M,86057,5,6,High,No,"['Fitness Bands', 'Books']",30,11,2,Low,Gold
+21,M,65008,4,6,Medium,No,"['Groceries', 'Protein Bar', 'Electronics', 'Organic Food']",111,11,1,Low,Gold
+43,F,75464,4,3,Medium,No,"['Shoes', 'Running Shoes']",29,10,5,High,Premium
+32,M,32685,9,4,High,No,"['Running Shoes', 'Fitness Bands']",106,6,6,High,Gold
+38,F,34820,6,5,High,Yes,['Organic Food'],65,9,2,Low,Gold
+51,M,36715,8,2,High,No,"['Groceries', 'Travel Accessories', 'Electronics', 'Mobile', 'Laptop']",45,9,5,Medium,Basic
+51,F,114930,8,3,Low,No,"['Mobile', 'Shoes', 'Fitness Bands', 'Home Decor', 'Travel Accessories']",13,12,2,High,Premium
+50,M,76196,8,6,Medium,Yes,"['Laptop', 'Home Decor']",119,12,7,Medium,Basic
+38,M,118864,9,4,Medium,No,"['Home Decor', 'Snacks', 'Groceries', 'Fitness Bands']",117,11,3,High,Premium
+20,M,86427,5,9,Medium,No,"['Laptop', 'Protein Bar', 'Books', 'Home Decor']",56,12,7,High,Premium
+56,M,75639,9,10,Medium,Yes,"['Electronics', 'Running Shoes', 'Travel Accessories', 'Organic Food']",37,12,4,Low,Gold
+31,M,20798,9,9,Low,Yes,"['Running Shoes', 'Snacks', 'Electronics']",69,11,3,High,Basic
+33,M,78071,5,10,High,No,"['Laptop', 'Organic Food']",99,12,4,Low,Basic
+60,F,33071,6,8,High,Yes,"['Running Shoes', 'Electronics', 'Protein Bar', 'Home Decor']",48,12,7,Low,Basic
+40,M,81496,6,5,Medium,No,"['Cosmetics', 'Shoes', 'Running Shoes', 'Books', 'Protein Bar']",108,11,4,Medium,Gold
+28,F,72463,4,8,Low,No,"['Shoes', 'Home Decor', 'Mobile', 'Groceries']",29,7,7,Low,Gold
+32,F,69835,4,9,High,Yes,"['Laptop', 'Mobile', 'Books']",14,9,6,High,Premium
+26,F,80509,7,4,High,No,"['Fitness Bands', 'Organic Food', 'Mobile', 'Protein Bar', 'Books']",11,11,5,High,Premium
+30,F,101960,4,4,Medium,Yes,"['Shoes', 'Snacks']",77,10,5,High,Premium
+23,F,113432,4,6,Medium,No,"['Snacks', 'Laptop', 'Shoes', 'Home Decor', 'Running Shoes']",40,12,6,Low,Premium
+57,F,53298,8,4,Low,Yes,['Electronics'],28,10,7,High,Gold
+55,F,101330,5,3,High,Yes,"['Fitness Bands', 'Cosmetics', 'Laptop']",40,8,6,High,Premium
+43,M,112076,7,10,Low,Yes,"['Shoes', 'Snacks', 'Mobile']",56,10,6,Low,Premium
+46,M,77659,7,3,Low,Yes,"['Groceries', 'Snacks', 'Travel Accessories', 'Laptop']",26,9,7,High,Premium
+36,M,79772,6,10,Low,Yes,['Protein Bar'],84,8,4,Medium,Premium
+51,M,74688,4,2,High,Yes,"['Travel Accessories', 'Cosmetics', 'Home Decor', 'Groceries']",103,12,2,High,Premium
+27,F,36395,8,5,Low,No,"['Mobile', 'Running Shoes', 'Protein Bar']",18,11,7,Medium,Premium
+42,F,92754,8,10,Medium,No,"['Mobile', 'Fitness Bands', 'Books']",39,7,4,High,Gold
+38,M,101946,5,7,Medium,No,['Fitness Bands'],11,8,7,Low,Premium
+51,F,90448,6,8,High,No,"['Travel Accessories', 'Electronics', 'Shoes', 'Groceries']",48,10,1,Low,Basic
+40,M,80125,6,6,High,No,"['Shoes', 'Fitness Bands', 'Organic Food', 'Mobile', 'Travel Accessories']",44,10,4,Medium,Plus
+54,F,104054,7,9,Medium,Yes,"['Laptop', 'Books', 'Groceries', 'Fitness Bands', 'Cosmetics']",89,10,4,Low,Plus
+38,F,100174,5,5,High,Yes,"['Laptop', 'Home Decor', 'Mobile', 'Fitness Bands']",118,12,5,Medium,Gold
+52,F,27168,7,2,Medium,No,"['Travel Accessories', 'Snacks', 'Cosmetics', 'Running Shoes']",47,9,5,Medium,Basic
+28,F,94214,6,2,Medium,No,"['Shoes', 'Electronics', 'Laptop', 'Books']",34,6,6,High,Plus
+46,F,108620,8,7,High,No,['Cosmetics'],35,8,6,High,Gold
+36,M,107288,6,10,Low,No,"['Groceries', 'Electronics', 'Travel Accessories', 'Home Decor']",65,7,6,Medium,Plus
+22,M,107040,5,10,Medium,No,"['Running Shoes', 'Laptop', 'Shoes']",75,9,3,Medium,Basic
+49,F,100311,9,10,Medium,Yes,['Books'],107,10,2,Medium,Plus
+19,M,83954,5,7,High,No,"['Fitness Bands', 'Protein Bar', 'Shoes', 'Cosmetics', 'Groceries']",26,11,2,Low,Plus
+53,F,27560,7,2,Medium,Yes,"['Home Decor', 'Travel Accessories', 'Protein Bar', 'Laptop']",93,9,4,Low,Basic
+33,F,61029,8,9,High,Yes,"['Cosmetics', 'Books']",41,6,7,High,Plus
+30,M,73165,4,6,Medium,No,"['Travel Accessories', 'Home Decor', 'Protein Bar', 'Electronics', 'Mobile']",114,12,3,High,Plus
+22,M,38652,6,9,Low,No,"['Mobile', 'Travel Accessories']",76,6,2,High,Basic
+41,F,24224,7,8,High,No,"['Laptop', 'Snacks', 'Shoes', 'Home Decor', 'Running Shoes']",47,8,6,Low,Plus
+20,F,100482,8,10,Low,Yes,['Home Decor'],10,6,4,High,Plus
+55,M,32659,9,3,High,No,"['Snacks', 'Shoes']",20,9,5,High,Gold
+27,M,48614,7,9,Low,No,"['Mobile', 'Shoes', 'Laptop', 'Organic Food', 'Running Shoes']",104,6,5,Medium,Plus
+34,M,94672,5,7,Low,No,"['Fitness Bands', 'Electronics', 'Books', 'Organic Food']",103,7,1,Medium,Gold
+40,M,73711,4,9,Low,No,"['Mobile', 'Shoes']",85,12,2,Medium,Premium
+41,M,46685,9,9,Low,No,"['Electronics', 'Laptop', 'Running Shoes']",105,7,5,Low,Plus
+34,F,103528,5,8,Medium,No,"['Mobile', 'Travel Accessories']",17,6,5,Low,Premium
+24,F,60147,7,7,High,No,['Fitness Bands'],118,9,5,Low,Gold
+40,M,40668,6,9,Medium,No,"['Books', 'Protein Bar', 'Electronics']",70,8,3,High,Premium
+33,M,110782,9,2,High,Yes,"['Laptop', 'Shoes', 'Protein Bar', 'Books']",14,8,7,Low,Basic
+45,M,82101,9,7,Medium,Yes,"['Fitness Bands', 'Shoes', 'Home Decor', 'Groceries', 'Protein Bar']",63,10,6,Medium,Plus
+60,F,83506,8,3,Medium,Yes,"['Snacks', 'Laptop', 'Travel Accessories', 'Mobile']",102,6,1,High,Basic
+56,F,61288,8,7,High,No,"['Cosmetics', 'Home Decor', 'Electronics', 'Fitness Bands', 'Laptop']",65,11,1,Medium,Premium
+33,F,29902,9,7,High,Yes,"['Mobile', 'Travel Accessories', 'Electronics', 'Fitness Bands', 'Laptop']",91,12,6,Low,Plus
+30,F,37164,7,7,High,Yes,"['Organic Food', 'Running Shoes', 'Electronics', 'Protein Bar']",110,6,7,High,Gold
+19,M,84989,8,10,High,No,"['Running Shoes', 'Snacks', 'Home Decor', 'Books']",119,7,7,High,Gold
+23,M,44614,6,7,High,Yes,['Groceries'],14,6,5,Medium,Basic
+38,F,21828,6,9,Low,No,"['Fitness Bands', 'Books']",84,9,6,High,Gold
+18,M,104743,8,10,Medium,No,"['Cosmetics', 'Books', 'Fitness Bands', 'Electronics']",16,10,2,Medium,Gold
+58,M,41317,7,7,High,Yes,"['Cosmetics', 'Electronics', 'Running Shoes']",109,11,3,Low,Plus
+51,F,39098,7,4,Low,Yes,"['Shoes', 'Organic Food', 'Home Decor', 'Protein Bar']",14,12,6,High,Basic
+45,M,76604,6,2,High,Yes,['Organic Food'],66,12,7,Low,Premium
+28,F,41957,6,10,High,No,"['Travel Accessories', 'Groceries']",102,12,3,High,Basic
+53,F,119817,8,2,Medium,Yes,"['Mobile', 'Protein Bar']",110,10,3,Medium,Premium
+32,F,114723,5,8,Low,Yes,['Shoes'],112,8,7,Low,Gold
+20,M,91720,9,5,Medium,No,['Shoes'],38,10,2,Medium,Premium
+29,M,57318,9,5,Medium,Yes,"['Travel Accessories', 'Books', 'Cosmetics', 'Snacks']",80,11,3,Low,Plus
+53,F,99989,8,9,Medium,No,"['Electronics', 'Protein Bar', 'Cosmetics']",65,10,4,High,Plus
+30,F,111975,5,9,Medium,No,"['Travel Accessories', 'Electronics', 'Mobile', 'Shoes']",26,7,5,High,Basic
+50,F,45873,8,5,Low,Yes,['Home Decor'],105,9,1,High,Plus
+35,F,45094,9,7,High,No,"['Travel Accessories', 'Books']",109,11,5,High,Plus
+40,F,27637,6,6,Medium,Yes,['Organic Food'],48,10,3,Low,Premium
+41,M,43856,8,5,Medium,Yes,"['Electronics', 'Protein Bar']",18,10,4,High,Premium
+38,F,114762,7,4,Low,No,['Cosmetics'],96,6,4,High,Premium
+21,F,54102,5,7,High,Yes,"['Running Shoes', 'Electronics', 'Travel Accessories']",54,10,6,Low,Gold
+29,F,101480,4,4,High,Yes,"['Cosmetics', 'Electronics', 'Organic Food', 'Mobile']",19,11,2,Low,Premium
+30,M,41673,7,4,Low,Yes,['Travel Accessories'],66,12,3,High,Gold
+54,M,114914,8,3,Low,Yes,"['Home Decor', 'Electronics', 'Cosmetics']",85,9,4,Low,Basic
+27,M,70663,5,2,High,Yes,"['Travel Accessories', 'Snacks', 'Groceries']",74,12,2,Medium,Basic
+28,F,75956,7,9,Medium,Yes,"['Mobile', 'Laptop', 'Running Shoes', 'Home Decor']",84,9,3,Medium,Basic
+60,F,106872,4,2,Medium,Yes,"['Travel Accessories', 'Groceries', 'Fitness Bands', 'Laptop', 'Books']",13,8,3,High,Gold
+51,M,114828,7,8,Low,Yes,"['Travel Accessories', 'Fitness Bands', 'Organic Food']",102,7,7,Medium,Plus
+37,M,47612,6,9,Medium,Yes,"['Groceries', 'Snacks', 'Cosmetics', 'Running Shoes', 'Travel Accessories']",46,6,2,Medium,Basic
+44,M,107431,5,2,Medium,Yes,"['Running Shoes', 'Electronics']",115,11,5,Medium,Gold
+40,F,36220,5,6,Medium,Yes,"['Protein Bar', 'Shoes', 'Travel Accessories']",100,10,1,Low,Premium
+39,M,51886,6,5,High,Yes,"['Organic Food', 'Groceries']",45,6,3,High,Plus
+41,F,92247,9,9,Low,Yes,"['Shoes', 'Running Shoes', 'Fitness Bands', 'Books']",75,6,2,Low,Plus
+46,F,90133,6,10,Low,No,"['Mobile', 'Snacks', 'Protein Bar', 'Cosmetics']",90,11,4,High,Basic
+36,M,67433,5,10,High,No,"['Cosmetics', 'Running Shoes', 'Protein Bar']",110,10,1,Low,Gold
+39,F,96523,8,5,Medium,Yes,"['Laptop', 'Cosmetics', 'Shoes']",46,8,5,High,Premium
+39,F,81640,8,10,High,Yes,['Fitness Bands'],10,11,7,Medium,Plus
+42,M,62847,7,3,Low,No,"['Running Shoes', 'Books', 'Protein Bar', 'Fitness Bands']",98,8,3,Medium,Premium
+58,F,112834,7,4,High,No,"['Running Shoes', 'Groceries']",111,6,2,Medium,Basic
+59,M,27039,6,3,High,No,"['Electronics', 'Protein Bar', 'Travel Accessories', 'Shoes']",94,9,5,Low,Premium
+28,F,38565,6,6,Medium,No,"['Cosmetics', 'Running Shoes', 'Electronics', 'Organic Food']",73,12,4,Medium,Premium
+32,F,36628,6,9,High,Yes,"['Protein Bar', 'Running Shoes', 'Cosmetics', 'Groceries', 'Fitness Bands']",77,7,5,High,Basic
+57,M,89463,9,8,Medium,No,"['Shoes', 'Laptop', 'Travel Accessories', 'Electronics', 'Groceries']",38,6,4,High,Basic
+40,M,116004,7,3,Low,No,"['Shoes', 'Electronics']",20,8,3,High,Premium
+28,M,75511,4,8,Medium,Yes,['Books'],64,10,3,Low,Plus
+27,M,67847,8,6,High,Yes,"['Fitness Bands', 'Mobile', 'Running Shoes', 'Books', 'Laptop']",114,10,6,High,Basic
+32,F,98875,6,7,Low,No,"['Books', 'Travel Accessories']",102,12,2,Low,Plus
+42,M,61902,8,9,High,Yes,"['Home Decor', 'Laptop', 'Electronics', 'Fitness Bands']",45,6,2,Low,Plus
+57,M,83214,9,6,High,Yes,"['Home Decor', 'Snacks']",61,12,2,Medium,Basic
+46,M,106541,7,4,Low,Yes,"['Shoes', 'Books', 'Home Decor', 'Snacks', 'Organic Food']",114,8,5,High,Basic
+54,M,68005,4,9,High,Yes,"['Travel Accessories', 'Groceries', 'Protein Bar', 'Books']",96,11,5,Low,Premium
+41,F,56936,4,4,Low,Yes,"['Groceries', 'Protein Bar', 'Books', 'Cosmetics']",113,11,5,High,Plus
+30,F,29208,5,10,Medium,Yes,"['Protein Bar', 'Home Decor', 'Groceries']",45,8,2,High,Plus
+54,F,75791,5,10,High,Yes,"['Snacks', 'Shoes']",99,7,5,Low,Plus
+26,M,43819,4,7,High,No,"['Snacks', 'Cosmetics', 'Groceries', 'Laptop']",111,6,6,Low,Premium
+55,F,44566,7,9,Low,No,"['Protein Bar', 'Snacks']",110,10,7,High,Plus
+44,F,109837,4,9,Medium,No,['Books'],33,6,5,High,Basic
+43,F,21947,5,4,Low,No,"['Organic Food', 'Cosmetics', 'Laptop', 'Fitness Bands']",17,8,3,Medium,Plus
+18,F,47261,4,2,High,Yes,['Electronics'],113,8,6,High,Basic
+20,M,36740,5,7,High,No,"['Snacks', 'Groceries']",61,10,5,High,Premium
+28,F,66902,7,8,Medium,Yes,"['Protein Bar', 'Home Decor', 'Organic Food']",102,7,6,High,Premium
+55,F,100986,4,2,High,Yes,"['Mobile', 'Groceries', 'Laptop']",16,8,5,Medium,Plus
+24,F,78947,9,4,Low,Yes,['Snacks'],75,7,2,Medium,Gold
+48,F,22514,7,7,Medium,No,"['Electronics', 'Snacks', 'Shoes']",81,9,7,High,Premium
+22,M,99182,8,10,Low,No,['Travel Accessories'],117,7,3,Medium,Gold
+31,M,87260,8,5,Low,Yes,"['Protein Bar', 'Cosmetics', 'Laptop', 'Home Decor', 'Running Shoes']",103,7,6,High,Gold
+51,F,24292,6,3,Low,No,"['Books', 'Organic Food']",64,9,7,Low,Plus
+36,M,110563,9,9,Medium,Yes,"['Organic Food', 'Shoes']",81,10,1,High,Premium
+56,M,94371,7,8,Low,No,"['Electronics', 'Running Shoes', 'Snacks', 'Cosmetics']",72,10,2,Medium,Plus
+34,F,73633,5,9,High,No,"['Shoes', 'Laptop', 'Organic Food']",92,11,5,High,Basic
+33,M,64179,9,4,High,Yes,['Home Decor'],24,6,1,Low,Basic
+39,M,82100,6,9,Low,No,"['Running Shoes', 'Protein Bar', 'Home Decor']",20,9,7,Low,Premium
+37,M,99750,9,2,High,Yes,['Groceries'],81,11,6,High,Premium
+43,M,38412,8,7,Medium,No,"['Shoes', 'Travel Accessories', 'Books']",78,9,4,Low,Gold
+57,F,56681,4,4,High,No,"['Cosmetics', 'Shoes', 'Protein Bar', 'Home Decor', 'Organic Food']",23,8,3,High,Plus
+25,F,114993,8,4,Low,Yes,"['Home Decor', 'Travel Accessories', 'Cosmetics', 'Mobile', 'Books']",40,6,6,Low,Gold
+55,F,111124,6,7,High,Yes,"['Organic Food', 'Travel Accessories', 'Groceries']",69,9,2,Low,Basic
+45,M,26466,7,4,Low,No,"['Books', 'Fitness Bands', 'Shoes', 'Protein Bar', 'Mobile']",65,12,7,High,Gold
+18,M,59529,8,9,Medium,No,"['Shoes', 'Fitness Bands', 'Books']",11,6,1,Low,Plus
+36,F,38836,8,8,Medium,Yes,"['Shoes', 'Mobile', 'Cosmetics', 'Fitness Bands', 'Travel Accessories']",43,12,7,Medium,Premium
+60,F,70429,4,2,Low,No,"['Groceries', 'Protein Bar', 'Running Shoes', 'Shoes', 'Organic Food']",105,6,7,High,Premium
+34,F,95166,6,7,Low,No,"['Snacks', 'Mobile', 'Fitness Bands']",104,8,4,High,Gold
+37,F,21793,7,3,Low,No,"['Travel Accessories', 'Fitness Bands', 'Mobile', 'Shoes']",53,11,2,High,Basic
+59,F,58541,5,9,High,No,"['Electronics', 'Home Decor', 'Laptop', 'Protein Bar', 'Mobile']",64,9,1,Low,Gold
+50,M,61252,6,3,High,Yes,['Home Decor'],84,9,6,High,Plus
+30,M,84816,9,3,Medium,No,"['Protein Bar', 'Snacks', 'Laptop', 'Organic Food', 'Cosmetics']",35,8,4,High,Premium
+27,M,118831,9,4,Medium,Yes,"['Mobile', 'Groceries', 'Protein Bar', 'Fitness Bands', 'Travel Accessories']",104,12,1,Low,Plus
+19,F,54878,9,3,Low,No,"['Organic Food', 'Fitness Bands', 'Snacks', 'Shoes']",88,10,1,Medium,Plus
+28,M,80010,8,3,Medium,Yes,"['Organic Food', 'Protein Bar', 'Home Decor']",79,12,7,Medium,Premium
+46,F,57630,7,4,High,Yes,"['Electronics', 'Protein Bar', 'Groceries']",102,6,6,Medium,Basic
+53,F,111912,7,9,Medium,No,"['Shoes', 'Laptop']",26,10,3,High,Plus
+40,M,26911,7,2,High,No,"['Home Decor', 'Snacks', 'Travel Accessories']",42,9,4,Medium,Basic
+57,F,24409,6,9,Medium,Yes,"['Groceries', 'Running Shoes', 'Protein Bar', 'Books']",37,12,3,Low,Plus
+56,M,58526,7,4,Medium,Yes,"['Fitness Bands', 'Books', 'Groceries', 'Protein Bar']",107,9,2,Low,Premium
+59,F,54087,4,5,Low,No,['Electronics'],60,9,2,High,Premium
+50,M,91787,9,10,Low,Yes,"['Books', 'Electronics', 'Home Decor', 'Fitness Bands', 'Travel Accessories']",38,8,1,Low,Plus
+52,F,76061,7,4,Low,Yes,['Books'],35,6,5,High,Plus
+44,F,68837,6,8,Low,Yes,['Snacks'],20,9,7,Medium,Basic
+32,F,65948,7,6,Medium,No,"['Shoes', 'Fitness Bands', 'Home Decor', 'Organic Food', 'Books']",114,12,1,High,Premium
+57,M,33530,7,2,Medium,No,"['Home Decor', 'Snacks', 'Protein Bar']",48,11,2,Low,Gold
+27,M,25816,4,8,Low,Yes,"['Travel Accessories', 'Groceries']",41,11,2,High,Basic
+25,M,97030,6,10,Medium,Yes,['Groceries'],14,8,3,Medium,Basic
+53,M,116363,5,2,Low,Yes,"['Groceries', 'Protein Bar', 'Running Shoes']",102,7,5,Medium,Premium
+24,F,69090,7,8,Low,No,"['Mobile', 'Cosmetics']",57,7,5,Medium,Premium
+32,F,78474,7,9,High,No,"['Books', 'Cosmetics']",79,6,6,Medium,Plus
+39,M,65865,7,4,Medium,Yes,"['Home Decor', 'Running Shoes']",101,6,3,Low,Gold
+30,F,107438,8,9,Medium,Yes,"['Snacks', 'Organic Food', 'Mobile']",69,9,1,Low,Plus
+55,F,84232,4,3,Medium,No,['Running Shoes'],58,9,1,Low,Basic
+18,F,100491,8,7,Low,No,"['Mobile', 'Books', 'Running Shoes', 'Protein Bar', 'Laptop']",93,10,7,High,Plus
+46,F,109611,6,5,High,Yes,"['Laptop', 'Snacks', 'Cosmetics', 'Mobile', 'Protein Bar']",89,7,2,High,Plus
+54,M,23835,9,2,High,No,"['Electronics', 'Books', 'Protein Bar', 'Home Decor']",64,8,3,High,Basic
+52,F,21934,4,6,Low,No,"['Protein Bar', 'Snacks', 'Home Decor']",25,7,2,Low,Gold
+42,F,86085,4,10,Low,Yes,['Electronics'],63,6,1,Medium,Plus
+60,F,99958,8,4,High,Yes,['Protein Bar'],22,11,2,High,Premium
+46,M,112526,6,3,Medium,No,"['Electronics', 'Books', 'Fitness Bands', 'Snacks', 'Shoes']",84,7,5,Low,Premium
+33,M,58698,9,7,High,No,"['Shoes', 'Home Decor']",63,7,5,Low,Basic
+28,M,26364,5,5,Low,No,"['Snacks', 'Groceries', 'Organic Food', 'Protein Bar', 'Home Decor']",110,7,4,Medium,Premium
+28,F,54755,6,9,High,No,['Shoes'],53,8,2,Low,Plus
+25,F,24750,8,3,High,Yes,"['Protein Bar', 'Mobile', 'Fitness Bands']",109,11,2,Low,Plus
+43,M,93904,7,6,High,No,['Books'],95,6,5,Medium,Plus
+34,F,93378,5,2,Medium,No,['Travel Accessories'],107,9,4,Medium,Premium
+34,F,55944,5,8,Medium,No,"['Snacks', 'Protein Bar', 'Home Decor', 'Organic Food']",17,9,1,Medium,Basic
+22,M,103679,6,6,High,No,"['Laptop', 'Travel Accessories', 'Groceries', 'Protein Bar']",88,12,5,Low,Basic
+31,F,76199,4,8,High,No,"['Laptop', 'Books', 'Travel Accessories', 'Fitness Bands']",52,9,5,Low,Plus
+20,F,109346,9,10,High,Yes,"['Laptop', 'Snacks', 'Organic Food', 'Mobile']",73,9,6,High,Plus
+33,F,88090,6,9,High,No,"['Cosmetics', 'Running Shoes', 'Mobile']",66,9,3,High,Gold
+43,F,84004,6,5,Low,Yes,"['Organic Food', 'Snacks', 'Mobile', 'Cosmetics']",59,6,1,Medium,Plus
+22,M,30702,8,7,Medium,Yes,"['Organic Food', 'Running Shoes', 'Mobile', 'Protein Bar', 'Groceries']",75,7,4,High,Premium
+26,F,101293,7,2,High,No,"['Home Decor', 'Electronics', 'Mobile', 'Fitness Bands']",97,10,7,High,Basic
+47,M,40206,7,7,Medium,Yes,"['Snacks', 'Electronics', 'Protein Bar', 'Running Shoes', 'Shoes']",65,12,2,High,Premium
+36,F,45189,6,3,Medium,No,['Organic Food'],87,9,1,High,Basic
+21,F,85963,5,3,High,Yes,"['Travel Accessories', 'Laptop']",80,11,6,Low,Basic
+28,M,39368,6,8,High,No,"['Shoes', 'Fitness Bands', 'Home Decor', 'Protein Bar']",19,11,5,High,Basic
+55,M,29020,9,6,High,Yes,"['Home Decor', 'Running Shoes', 'Books', 'Fitness Bands']",109,11,4,Medium,Plus
+35,M,21092,7,5,High,Yes,['Home Decor'],18,6,1,High,Plus
+38,F,58083,5,8,Medium,Yes,"['Laptop', 'Snacks', 'Fitness Bands', 'Electronics', 'Groceries']",29,6,7,Low,Premium
+55,M,104533,4,10,High,No,['Cosmetics'],71,12,6,High,Premium
+49,M,114030,9,10,Low,No,"['Snacks', 'Running Shoes', 'Groceries', 'Organic Food']",78,6,3,Low,Plus
+32,F,37578,7,8,Medium,Yes,"['Mobile', 'Snacks']",119,12,1,Medium,Premium
+20,M,23138,7,3,Medium,No,"['Books', 'Shoes', 'Home Decor', 'Laptop', 'Protein Bar']",77,12,6,Low,Plus
+58,F,47821,9,10,High,No,"['Fitness Bands', 'Electronics', 'Mobile', 'Protein Bar', 'Groceries']",79,6,1,Low,Premium
+23,F,117617,8,6,Low,No,"['Fitness Bands', 'Running Shoes', 'Cosmetics', 'Home Decor', 'Organic Food']",71,11,4,High,Basic
+37,F,33496,8,9,Low,Yes,"['Shoes', 'Mobile', 'Cosmetics', 'Organic Food']",54,8,5,Low,Plus
+32,F,29512,8,6,Low,Yes,"['Home Decor', 'Running Shoes', 'Cosmetics']",57,6,6,Medium,Premium
+48,F,59448,7,3,High,No,"['Mobile', 'Groceries', 'Snacks', 'Cosmetics']",35,6,1,Low,Basic
+35,M,52715,7,5,Low,No,"['Running Shoes', 'Laptop', 'Organic Food', 'Electronics']",30,10,5,High,Gold
+44,M,108572,9,10,Low,No,"['Books', 'Fitness Bands']",33,7,2,Low,Premium
+39,F,54263,8,9,High,No,"['Laptop', 'Protein Bar', 'Electronics', 'Snacks']",14,10,4,Low,Gold
+56,F,49505,6,8,Medium,No,['Electronics'],106,10,2,Medium,Gold
+42,M,78529,9,4,High,No,"['Travel Accessories', 'Cosmetics', 'Groceries']",61,12,3,Medium,Premium
+52,F,114538,9,7,Medium,Yes,"['Home Decor', 'Mobile', 'Laptop']",23,9,5,Medium,Plus
+40,F,88091,9,9,High,Yes,"['Home Decor', 'Laptop', 'Running Shoes', 'Snacks']",12,11,5,High,Plus
+20,F,67801,7,9,Medium,No,"['Running Shoes', 'Cosmetics']",27,7,7,High,Basic
+53,M,42967,8,5,High,Yes,"['Home Decor', 'Groceries', 'Protein Bar']",88,10,5,Low,Gold
+19,F,107144,8,5,High,No,"['Mobile', 'Snacks', 'Books']",80,10,7,High,Gold
+30,F,99863,8,8,High,Yes,"['Shoes', 'Electronics', 'Laptop']",88,7,7,Low,Premium
+54,M,76360,7,6,Low,No,"['Protein Bar', 'Travel Accessories', 'Home Decor', 'Mobile', 'Organic Food']",69,8,2,Medium,Premium
+30,F,106843,5,3,Medium,No,"['Mobile', 'Fitness Bands', 'Groceries', 'Home Decor']",10,10,2,Medium,Plus
+55,F,45375,8,4,Medium,No,"['Organic Food', 'Cosmetics']",94,9,7,Low,Gold
+28,M,21615,5,6,Low,Yes,"['Cosmetics', 'Groceries', 'Fitness Bands', 'Running Shoes']",57,9,1,Medium,Plus
+24,F,79741,9,5,Medium,No,"['Organic Food', 'Travel Accessories', 'Shoes', 'Fitness Bands']",11,10,6,Low,Premium
+21,F,41357,4,4,Medium,No,['Running Shoes'],75,7,7,Low,Basic
+57,F,96392,8,6,Medium,Yes,['Mobile'],34,8,7,High,Premium
+56,F,106455,7,5,Medium,No,['Snacks'],35,9,2,High,Premium
+50,F,99392,9,7,Low,Yes,"['Cosmetics', 'Travel Accessories', 'Snacks']",91,9,6,Low,Gold
+24,F,61596,8,5,Low,No,['Running Shoes'],106,10,6,Low,Gold
+20,F,82221,5,5,Low,No,['Running Shoes'],78,12,2,Low,Plus
+42,F,49385,6,10,Low,Yes,"['Electronics', 'Mobile']",93,12,2,Medium,Gold
+43,F,22679,9,3,Low,Yes,['Home Decor'],23,10,6,Low,Plus
+21,F,81417,7,8,High,Yes,"['Fitness Bands', 'Electronics']",78,8,1,Low,Gold
+53,F,78113,6,10,Medium,No,"['Shoes', 'Laptop', 'Electronics', 'Mobile']",75,8,4,Medium,Gold
+27,M,27945,6,3,Medium,Yes,['Travel Accessories'],98,10,6,Low,Plus
+35,M,92561,7,10,Medium,No,"['Electronics', 'Organic Food']",67,11,2,High,Plus
+48,M,54982,6,5,Medium,No,"['Organic Food', 'Mobile', 'Fitness Bands', 'Home Decor']",56,7,3,Medium,Premium
+31,M,37116,8,8,Medium,Yes,"['Mobile', 'Organic Food', 'Groceries', 'Shoes', 'Protein Bar']",88,9,4,High,Gold
+34,F,47877,5,8,High,Yes,"['Cosmetics', 'Protein Bar', 'Mobile', 'Groceries']",97,8,1,High,Plus
+42,F,39158,7,3,Medium,Yes,"['Laptop', 'Shoes']",29,11,3,Low,Plus
+34,F,106172,8,3,High,No,"['Groceries', 'Travel Accessories', 'Cosmetics', 'Laptop']",44,9,5,Low,Premium
+28,F,55424,4,7,Low,Yes,"['Books', 'Mobile', 'Cosmetics', 'Home Decor', 'Travel Accessories']",52,6,1,Low,Basic
+25,M,30019,6,3,High,No,"['Electronics', 'Organic Food', 'Groceries', 'Shoes', 'Running Shoes']",106,7,2,High,Basic
+36,M,111385,9,6,High,Yes,['Books'],50,12,5,Medium,Plus
+31,M,48740,7,10,High,No,['Fitness Bands'],76,10,3,Low,Basic
+42,M,118208,8,4,Low,Yes,"['Organic Food', 'Protein Bar', 'Groceries']",115,9,2,High,Premium
+45,F,23043,5,8,Medium,No,"['Mobile', 'Books', 'Organic Food', 'Groceries']",45,6,6,Low,Gold
+25,F,52972,9,7,High,Yes,"['Cosmetics', 'Groceries']",120,8,2,High,Basic
+35,F,111546,5,3,High,No,['Mobile'],22,10,6,Medium,Plus
+56,M,23190,9,7,Medium,Yes,"['Running Shoes', 'Shoes', 'Organic Food']",29,10,1,Low,Basic
+37,M,61313,8,10,Low,Yes,['Home Decor'],92,12,7,Low,Premium
+28,M,89466,8,5,Low,Yes,"['Laptop', 'Organic Food', 'Running Shoes', 'Travel Accessories', 'Cosmetics']",107,12,7,High,Basic
+57,F,51584,8,3,High,Yes,"['Laptop', 'Fitness Bands', 'Protein Bar']",72,8,5,High,Premium
+55,M,107152,6,4,Low,No,"['Books', 'Running Shoes', 'Snacks', 'Fitness Bands', 'Electronics']",39,12,4,Low,Basic
+55,M,68906,6,2,High,No,"['Laptop', 'Organic Food', 'Cosmetics', 'Home Decor']",105,9,7,Medium,Premium
+60,F,46416,6,2,Low,Yes,['Running Shoes'],51,10,2,Low,Plus
+35,M,87965,7,4,Medium,Yes,"['Cosmetics', 'Home Decor', 'Running Shoes', 'Laptop', 'Organic Food']",38,11,2,Low,Basic
+55,F,45737,6,5,High,No,"['Fitness Bands', 'Electronics', 'Shoes', 'Cosmetics', 'Snacks']",48,9,4,Low,Gold
+21,M,55797,4,6,High,Yes,['Snacks'],45,12,5,Low,Basic
+47,M,62162,9,8,High,Yes,['Electronics'],99,11,2,Medium,Plus
+18,F,39642,6,3,Medium,Yes,"['Mobile', 'Protein Bar']",46,10,2,Medium,Plus
+56,M,57314,8,4,Medium,Yes,"['Fitness Bands', 'Groceries']",25,10,3,Medium,Gold
+35,M,83111,5,9,High,Yes,"['Electronics', 'Travel Accessories', 'Home Decor']",72,7,7,Medium,Gold
+38,M,68166,4,2,High,No,"['Organic Food', 'Travel Accessories']",15,6,3,Medium,Plus
+49,M,92765,5,9,Low,Yes,"['Laptop', 'Electronics', 'Running Shoes', 'Home Decor']",76,11,3,Medium,Plus
+52,F,84197,6,8,High,Yes,"['Home Decor', 'Books', 'Fitness Bands']",25,10,6,Low,Plus
+43,F,40775,5,5,Medium,No,"['Organic Food', 'Running Shoes', 'Travel Accessories', 'Home Decor', 'Shoes']",62,8,2,Medium,Plus
+60,F,97929,8,10,Low,Yes,"['Fitness Bands', 'Groceries', 'Protein Bar']",82,11,5,Medium,Premium
+57,F,61499,8,8,Low,Yes,"['Groceries', 'Running Shoes', 'Fitness Bands', 'Snacks']",102,6,7,High,Basic
+54,M,42528,7,10,Low,No,"['Travel Accessories', 'Books', 'Mobile']",91,10,7,High,Basic
+47,F,100329,9,6,Low,Yes,['Organic Food'],25,12,2,High,Gold
+43,F,75889,9,2,Low,Yes,['Mobile'],57,9,6,Low,Gold
+30,F,105469,7,4,Low,No,"['Books', 'Shoes', 'Fitness Bands', 'Laptop']",105,11,2,Low,Plus
+22,M,33503,5,2,Low,Yes,"['Shoes', 'Books', 'Snacks', 'Fitness Bands', 'Organic Food']",30,7,1,Low,Premium
+20,M,92728,4,3,Low,No,"['Books', 'Laptop', 'Snacks']",57,10,1,Medium,Basic
+34,F,117991,7,7,High,Yes,"['Travel Accessories', 'Books']",45,12,1,Medium,Basic
+20,F,98144,7,10,Medium,No,"['Fitness Bands', 'Home Decor', 'Snacks', 'Groceries']",106,11,4,High,Plus
+34,F,117070,4,3,Low,No,"['Laptop', 'Books', 'Shoes', 'Running Shoes', 'Electronics']",11,9,1,Low,Basic
+54,M,114156,4,6,Medium,No,"['Travel Accessories', 'Laptop', 'Shoes']",56,7,4,High,Plus
+54,F,87344,8,8,High,No,"['Laptop', 'Groceries']",23,9,1,Medium,Plus
+57,M,117932,6,4,Low,Yes,['Shoes'],36,10,6,Low,Plus
+43,F,113459,9,9,Medium,No,"['Travel Accessories', 'Groceries', 'Cosmetics', 'Electronics', 'Shoes']",25,7,4,High,Plus
+49,M,52476,6,5,Low,Yes,"['Books', 'Home Decor']",56,10,3,Low,Premium

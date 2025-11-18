@@ -1,0 +1,43 @@
+=== DATASET SUMMARY ===
+Total Rows: 600
+Total Unique Items: 14
+
+
+=== TOP ITEM FREQUENCIES ===
+Protein Bar: 145
+Mobile: 143
+Home Decor: 139
+Fitness Bands: 139
+Books: 132
+Electronics: 131
+Organic Food: 131
+Travel Accessories: 127
+Snacks: 126
+Groceries: 126
+
+
+=== APRIORI RULES SUMMARY ===
+Total Apriori Rules: 10
+Top 5 Apriori Rules:
+['Books'] -> ['Fitness Bands'] | Lift=1.341, Confidence=0.311
+['Fitness Bands'] -> ['Books'] | Lift=1.341, Confidence=0.295
+['Shoes'] -> ['Laptop'] | Lift=1.253, Confidence=0.238
+['Laptop'] -> ['Shoes'] | Lift=1.253, Confidence=0.263
+['Home Decor'] -> ['Protein Bar'] | Lift=1.250, Confidence=0.302
+
+
+=== FP-GROWTH RULES SUMMARY ===
+Total FP-Growth Rules: 12
+Top 5 FP-Growth Rules:
+['Organic Food', 'Snacks', 'Protein Bar'] -> ['Home Decor'] | Lift=3.237, Confidence=0.750
+['Snacks', 'Home Decor', 'Protein Bar'] -> ['Organic Food'] | Lift=2.498, Confidence=0.545
+['Organic Food', 'Snacks', 'Home Decor'] -> ['Protein Bar'] | Lift=2.257, Confidence=0.545
+['Organic Food', 'Home Decor', 'Protein Bar'] -> ['Snacks'] | Lift=2.041, Confidence=0.429
+['Travel Accessories', 'Home Decor'] -> ['Electronics'] | Lift=1.874, Confidence=0.409
+
+
+=== INSIGHTS ===
+- Higher LIFT means strong association between items.
+- Confidence shows reliability of the rule.
+- FP-Growth may generate fewer rules if confidence threshold is high.
+- Items with high frequency appear more often in rules.
